@@ -217,6 +217,11 @@ public class GraphPersistence : IPersistence
                 rectChart.localScale = new Vector3(preset_Scale * graphsConfig[index].scale, preset_Scale * graphsConfig[index].scale, preset_Scale * graphsConfig[index].scale); break;
         }
     }
+
+    public GameObject getChartCanvas()
+    {
+        return transform.GetChild(0).gameObject;
+    }
 }
 
 [CustomEditor(typeof(GraphPersistence))]
