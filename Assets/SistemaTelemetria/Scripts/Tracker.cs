@@ -60,15 +60,6 @@ public class Tracker : MonoBehaviour
         }
         else
             tSinceLastPost += Time.deltaTime;
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            AddEvent(new InicioEvent());
-        }
-        if (Input.GetKeyDown(KeyCode.J))
-        {
-            AddEvent(new FinEvent());
-        }
     }
 
     private void OnDestroy()

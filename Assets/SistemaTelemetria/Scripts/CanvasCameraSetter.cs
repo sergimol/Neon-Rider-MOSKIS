@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CanvasCameraSetter : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Script para cambiar la cámara asignada al canvas de las gráficas al cambiar de nivel
     void Start()
     {
         GameObject canvasObject = Tracker.instance.GetComponent<GraphPersistence>().getChartCanvas();

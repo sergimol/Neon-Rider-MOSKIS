@@ -12,10 +12,51 @@ using Newtonsoft.Json.Linq;
 using UnityEngine.UI;
 using UnityEditor.PackageManager.UI;
 
+/*
+ * GraphTypes define las diferentes formas de contar los eventos
+ * 
+ * ACCUMULATED: Se acumula la cantidad de veces que aparece el evento Y desde el inicio hasta el numero de veces que haya aparecido X
+ * 
+ * NOTACCUMULATED: Cada vez que aparece un evento X, se reinicia la cantidad de veces que ha aparecido el evento Y
+ * 
+ * AVERAGE: Cada vez que aparece el evento X se hace una media de las veces que ha aparecido el evento Y desde el inicio
+ * 
+ */
 public enum GraphTypes { ACCUMULATED, NOTACCUMULATED, AVERAGE }
-public enum Scaling { X_SCALING_START, X_SCALING_OFFSET, ONLY_Y }
-public enum Constrains { FREE_CONFIG, LEFT_TOP, LEFT_BOTTOM, LEFT_VERTICAL, RIGHT_VERTICAL }
 
+/*
+ * Scaling define las diferentes formas en las que se escalan las lineas dentro de los charts
+ * 
+ * X_SCALING_START: La linea ocupa siempre todo el chart en X y con cada evento nuevo se estrecha para insertar el nuevo punto
+ * 
+ * X_SCALING_OFFSET: La linea empieza de la izquierda y avanza x_segments veces para llegar a ocupar todos los valores de X,
+ *      luego se estrecha para insertar nuevos puntos
+ *      
+ * ONLY_Y: La linea empieza de la izquierda y avanza x_segments veces para llegar a ocupar todos los valores de X,
+ *      luego se mueven todos los puntos a la izquierda cuando es necesario insertar uno nuevo,
+ *      las distancias entre los puntos son siempre las mismas.
+ * 
+ */
+public enum Scaling { X_SCALING_START, X_SCALING_OFFSET, ONLY_Y }
+
+/*
+ * Constraints define de que manera se van a colocar los charts dentro de la pantalla
+ * 
+ * FREE_CONFIG: Se deja al diseñador que mueva cada chart individualmente y lo escale como quiera,
+ *      con las variables graph_X, graph_Y y scale
+ *      
+ * LEFT_TOP: El primer chart se coloca arriba a la izquierda y los siguientes se situan directamente a la derecha,
+ *      cuando no haya espacio en la pantalla para mas se empezara debajo del primero y siguiendo a la derecha
+ *      
+ * LEFT_BOTTOM: El primer chart se coloca abajo a la izquierda y los siguientes a la derecha, la siguiente fila empieza encima del primero
+ * 
+ * LEFT_VERTICAL: El primer chart se coloca arriba a la izquierda y los siguientes se situan directamente abajo,
+ *      cuando no haya espacio en la pantalla para mas se empezara a la derecha del primero y siguiendo abajo
+ *      
+ * RIGHT_VERTICAL: El primer chart se coloca arriba a la derecha y los siguientes abajo, la siguiente columna empieza a la izquierda del primero
+ * 
+ */
+public enum Constrains { FREE_CONFIG, LEFT_TOP, LEFT_BOTTOM, LEFT_VERTICAL, RIGHT_VERTICAL }
 
 [Serializable]
 public struct GraphConfig
@@ -58,6 +99,10 @@ public struct GraphConfig
     public float point_Size;
     [HideInInspector]
     public GraphTypes graphType;
+    [HideInInspector]
+    public Color designerGraphCol;
+    [HideInInspector]
+    public Color actualGraphCol;
 }
 
 public class GraphPersistence : IPersistence
@@ -77,8 +122,9 @@ public class GraphPersistence : IPersistence
     float preset_Scale = 1f;
 
     Resolution resolution;
+    public Vector2 dimension;
     int max_charts_per_row = 4;
-    int max_charts_per_col = 4;
+    int max_charts_per_col = 3;
 
     private void Start()
     {
@@ -96,25 +142,28 @@ public class GraphPersistence : IPersistence
         canvasObject.transform.SetParent(transform, false);     // Hacer que el objeto Canvas sea hijo del objeto padre
         canvasObject.GetComponent<Canvas>().renderMode = RenderMode.ScreenSpaceCamera;
         canvasObject.GetComponent<Canvas>().worldCamera = Camera.main;
-        canvasObject.GetComponent<Canvas>().scaleFactor = 1f;  //!CUIDAO
+        canvasObject.GetComponent<Canvas>().scaleFactor = 1f;
 
 
-        // ESTO ESTA SIENDO DELICADO
-        CanvasScaler mivieja = canvasObject.GetComponent<CanvasScaler>();
-        mivieja.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
+        // Resolucion
+        CanvasScaler cScaler = canvasObject.GetComponent<CanvasScaler>();
+        cScaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
         resolution = Screen.currentResolution;
-        mivieja.referenceResolution = new Vector2(resolution.width, resolution.height);
+        cScaler.referenceResolution = new Vector2(resolution.width, resolution.height);
+        //Tamano
+        dimension = new Vector2(Screen.width, Screen.height);
 
         //Crear tantos Graph como se han configurado y pasarles la informacion
         Array.Resize(ref graphs, graphsConfig.Count());
-        int cuadIndex = 0;
+        int rowIndex = 0;
+        int colIndex = 0;
         for (int i = 0; i < graphsConfig.Count(); ++i)
         {
             // Creamos el objeto grafica
             GameObject aux = Instantiate(graphObject, parent: canvasObject.transform);
 
             // Rescalamos y posicionamos 
-            SetGraphInWindow(ref aux, i, cuadIndex);
+            SetGraphInWindow(ref aux, i, rowIndex, colIndex);
 
             graphs[i] = aux.GetComponent<Window_Graph>();
             graphs[i].name = graphsConfig[i].name;
@@ -124,31 +173,40 @@ public class GraphPersistence : IPersistence
             graphWriters.Add(graphsConfig[i].name, new StreamWriter(fullRoute + graphsConfig[i].name + ".csv"));
             graphWriters[graphsConfig[i].name].WriteLine(graphsConfig[i].eventX + "," + graphsConfig[i].eventY);
 
-            cuadIndex++;
-            if(cuadIndex >= max_charts_per_row)
-                cuadIndex = 0;
+            rowIndex++;
+            if(rowIndex >= max_charts_per_row)
+                rowIndex = 0;
+            colIndex++;
+            if (colIndex >= max_charts_per_col)
+                colIndex = 0;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        // En cada update se reescriben las lineas del chart porque se pintan sobre el espacio del juego
+        for (int i = 0; i < graphsConfig.Count(); ++i)
+        {
+            graphs[i].RefreshChart();
         }
     }
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
+        // Con la tecla Q se desactivan todos los charts
+        if (Input.GetKeyDown(KeyCode.RightControl))
             transform.GetChild(0).transform.gameObject.SetActive(!transform.GetChild(0).transform.gameObject.activeSelf);
     }
 
     private void OnDestroy()
     {
-        if (graphs != null)
+        for (int i = 0; i < graphs.Length; ++i)
         {
-            for (int i = 0; i < graphs.Length; ++i)
-            {
-                graphWriters[graphs[i].name].Close();
-            }
+            graphWriters[graphs[i].name].Close();
         }
     }
     public override void Send(TrackerEvent e)
     {
-        //eventsBuff.Add(e);
         for (int i = 0; i < graphs.Length; ++i)
         {
             // Comprueba si la grafica tiene el evento y si debe mostrar un nuevo punto
@@ -164,11 +222,11 @@ public class GraphPersistence : IPersistence
 
     public override void Flush()
     {
-        
+
     }
 
     // Ajusta la posicion y escala de la Grafica
-    private void SetGraphInWindow( ref GameObject chart, int index, int cuadIndex)
+    private void SetGraphInWindow( ref GameObject chart, int index, int rowIndex, int colIndex)
     {
         RectTransform rectChart = chart.GetComponent<RectTransform>();
         rectChart.localScale = new Vector3(preset_Scale / max_charts_per_row, preset_Scale / max_charts_per_row, preset_Scale / max_charts_per_row);
@@ -182,33 +240,30 @@ public class GraphPersistence : IPersistence
         {
             // HORIZONTAL ABAJO
             case Constrains.LEFT_BOTTOM:
-                float aux_offset = 0;
-                if (index >= 4) aux_offset = 50;
-                offsetX = (resolution.width / max_charts_per_row) * cuadIndex;
+                offsetX = (resolution.width / max_charts_per_row) * rowIndex;
                 row = index / max_charts_per_row;
                 offsetY = rectChart.anchoredPosition.y + row * (rectChart.rect.height / max_charts_per_row); // el height es el original por eso hay que reescalarlo para abajo
                 rectChart.anchoredPosition = new Vector2(offsetX, offsetY);
                 break;
 
             case Constrains.LEFT_TOP:
-                offsetX = (resolution.width / max_charts_per_row) * cuadIndex;
+                offsetX = (resolution.width / max_charts_per_row) * rowIndex;
                 row = index / max_charts_per_row;
-                // este 1080 hay que sacarlo a una variable porque el height del graph no es exacto y no da pa las cuentas
-                offsetY = resolution.height - ((row+1) * (1080 / max_charts_per_row)); // el height es el original por eso hay que reescalarlo para abajo
+                offsetY = resolution.height - ((row+1) * (rectChart.rect.height / max_charts_per_row)); // el height es el original por eso hay que reescalarlo para abajo
                 rectChart.anchoredPosition = new Vector2(offsetX, offsetY);
                 break;
 
             case Constrains.LEFT_VERTICAL:
                 col = index / max_charts_per_col;
-                offsetX = (1920 / max_charts_per_col) * col;
-                offsetY = resolution.height - (1080 / max_charts_per_col) - (resolution.height / max_charts_per_col) * cuadIndex; // el height es el original por eso hay que reescalarlo para abajo
+                offsetX = (resolution.width / max_charts_per_col) * col;
+                offsetY = resolution.height - (1080 / max_charts_per_col) - (resolution.height / max_charts_per_col) * colIndex; // el height es el original por eso hay que reescalarlo para abajo
                 rectChart.anchoredPosition = new Vector2(offsetX, offsetY);
                 break;
 
             case Constrains.RIGHT_VERTICAL:
                 col = index / max_charts_per_col;
-                offsetX = resolution.width - (1920 / max_charts_per_col) * (col + 1);
-                offsetY = resolution.height - (1080 / max_charts_per_col) - (resolution.height / max_charts_per_col) * cuadIndex; // el height es el original por eso hay que reescalarlo para abajo
+                offsetX = resolution.width - (rectChart.rect.width / max_charts_per_col) * (col + 1);
+                offsetY = resolution.height - (1080 / max_charts_per_col) - (1080 / max_charts_per_col) * colIndex; // el height es el original por eso hay que reescalarlo para abajo
                 rectChart.anchoredPosition = new Vector2(offsetX, offsetY);
                 break;
 
@@ -241,7 +296,6 @@ public class GraphPersistenceEditor : Editor
     public override void OnInspectorGUI()
     {
         serializedObject.Update();
-        //EditorUtility.SetDirty(target);
         EditorGUILayout.PropertyField(grPers);
 
         GraphPersistence graphPersistence = (GraphPersistence)target;
@@ -265,9 +319,11 @@ public class GraphPersistenceEditor : Editor
         {
             GraphConfig actGraphConf = graphPersistence.graphsConfig[i];
             actGraphConf.name = EditorGUILayout.TextField("GraphName", actGraphConf.name);
+            if (actGraphConf.name == "" || (i-1 >=0 && actGraphConf.name == graphPersistence.graphsConfig[i-1].name))
+                actGraphConf.name = "Chart" + i;
 
             actGraphConf.pointsNumber = EditorGUILayout.IntField("NumberPoints", actGraphConf.pointsNumber);
-            if (actGraphConf.pointsNumber < 1) 
+            if (actGraphConf.pointsNumber < 1)
                 actGraphConf.pointsNumber = 1;
 
             actGraphConf.myCurve = EditorGUILayout.CurveField(actGraphConf.myCurve);
@@ -289,18 +345,27 @@ public class GraphPersistenceEditor : Editor
 
 
             //El resto de configuracion
-            actGraphConf.line_Width = EditorGUILayout.Slider("Line Width", actGraphConf.line_Width,0.0f,0.2f);
-            actGraphConf.point_Size = EditorGUILayout.Slider("Point Size", actGraphConf.point_Size, 0.0f, 1.0f);
+            actGraphConf.line_Width = EditorGUILayout.Slider("Line Width", actGraphConf.line_Width, 0.01f, 0.2f);
+            actGraphConf.point_Size = EditorGUILayout.Slider("Point Size", actGraphConf.point_Size, 0.01f, 1.0f);
 
             if (graphPersistence.constrainsGraphs == Constrains.FREE_CONFIG)
             {
-                actGraphConf.graph_X = EditorGUILayout.IntField("X Pos", actGraphConf.graph_X);
-                actGraphConf.graph_Y = EditorGUILayout.IntField("Y Pos", actGraphConf.graph_Y);
-                actGraphConf.scale = EditorGUILayout.FloatField("Scale", actGraphConf.scale);
+                actGraphConf.graph_X = EditorGUILayout.IntSlider("X Pos", actGraphConf.graph_X, 0, Screen.currentResolution.width);
+                actGraphConf.graph_Y = EditorGUILayout.IntSlider("Y Pos", actGraphConf.graph_Y, 0, Screen.currentResolution.height);
+                actGraphConf.scale = EditorGUILayout.Slider("Scale", actGraphConf.scale, 0.01f, 1.0f);
             }
 
             actGraphConf.x_segments = EditorGUILayout.IntField("X segments", actGraphConf.x_segments);
+            if (actGraphConf.x_segments < 2)
+                actGraphConf.x_segments = 2;
             actGraphConf.y_segments = EditorGUILayout.IntField("Y segments", actGraphConf.y_segments);
+            if (actGraphConf.y_segments < 2)
+                actGraphConf.y_segments = 2;
+
+            actGraphConf.designerGraphCol = EditorGUILayout.ColorField("DesignerGraph", actGraphConf.designerGraphCol);
+            actGraphConf.designerGraphCol.a = 1;
+            actGraphConf.actualGraphCol = EditorGUILayout.ColorField("ActualGraph", actGraphConf.actualGraphCol);
+            actGraphConf.actualGraphCol.a = 1;
 
             EditorGUILayout.Space(20);
             graphPersistence.graphsConfig[i] = actGraphConf;
