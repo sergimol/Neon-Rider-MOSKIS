@@ -11,7 +11,7 @@ public class StartLevelTrigger : MonoBehaviour
     {
         if (collision.GetComponent<PlayerController>() != null)
         {
-            //Tracker.instance.AddEvent(new InicioNivelEvent(level));
+            Tracker.instance.AddEvent(new InicioNivelEvent(level));
             Destroy(this);
         }
     }
