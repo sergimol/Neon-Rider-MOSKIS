@@ -1,0 +1,3182 @@
+fileFormatVersion: 2
+guid: 0ea8bc6c2365d9e49adc43ac4bf13863
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8388530490162838509
+    second: Itch release raw tileset 01 shades reescalado_0
+  - first:
+      213: -1242182303906997490
+    second: Itch release raw tileset 01 shades reescalado_1
+  - first:
+      213: 6219119819731030358
+    second: Itch release raw tileset 01 shades reescalado_2
+  - first:
+      213: 2608525858336532258
+    second: Itch release raw tileset 01 shades reescalado_3
+  - first:
+      213: 8456669370655505465
+    second: Itch release raw tileset 01 shades reescalado_4
+  - first:
+      213: -4741143916318861939
+    second: Itch release raw tileset 01 shades reescalado_5
+  - first:
+      213: 9013939626796368756
+    second: Itch release raw tileset 01 shades reescalado_6
+  - first:
+      213: -7301104940374221108
+    second: Itch release raw tileset 01 shades reescalado_7
+  - first:
+      213: 5616849883833340016
+    second: Itch release raw tileset 01 shades reescalado_8
+  - first:
+      213: -8140298726969007921
+    second: Itch release raw tileset 01 shades reescalado_9
+  - first:
+      213: -7564729224775593619
+    second: Itch release raw tileset 01 shades reescalado_10
+  - first:
+      213: 8898408972980623767
+    second: Itch release raw tileset 01 shades reescalado_11
+  - first:
+      213: 3813746955692345139
+    second: Itch release raw tileset 01 shades reescalado_12
+  - first:
+      213: -4661802319806123549
+    second: Itch release raw tileset 01 shades reescalado_13
+  - first:
+      213: 3733264269098143784
+    second: Itch release raw tileset 01 shades reescalado_14
+  - first:
+      213: 7431586472633932547
+    second: Itch release raw tileset 01 shades reescalado_15
+  - first:
+      213: 6007880440423541542
+    second: Itch release raw tileset 01 shades reescalado_16
+  - first:
+      213: 7325701200229609062
+    second: Itch release raw tileset 01 shades reescalado_17
+  - first:
+      213: -4506321166779312837
+    second: Itch release raw tileset 01 shades reescalado_18
+  - first:
+      213: -8458504132002305231
+    second: Itch release raw tileset 01 shades reescalado_19
+  - first:
+      213: 6935149095751592008
+    second: Itch release raw tileset 01 shades reescalado_20
+  - first:
+      213: 3608846351874751731
+    second: Itch release raw tileset 01 shades reescalado_21
+  - first:
+      213: 6431774043123297522
+    second: Itch release raw tileset 01 shades reescalado_22
+  - first:
+      213: -8736819419890196924
+    second: Itch release raw tileset 01 shades reescalado_23
+  - first:
+      213: 6523276029754138536
+    second: Itch release raw tileset 01 shades reescalado_24
+  - first:
+      213: -279305003552967887
+    second: Itch release raw tileset 01 shades reescalado_25
+  - first:
+      213: 742316142511114819
+    second: Itch release raw tileset 01 shades reescalado_26
+  - first:
+      213: 4919282495858859916
+    second: Itch release raw tileset 01 shades reescalado_27
+  - first:
+      213: 453193476020846237
+    second: Itch release raw tileset 01 shades reescalado_28
+  - first:
+      213: -2195071399504538731
+    second: Itch release raw tileset 01 shades reescalado_29
+  - first:
+      213: -5146850241236551218
+    second: Itch release raw tileset 01 shades reescalado_30
+  - first:
+      213: -3603421118196373200
+    second: Itch release raw tileset 01 shades reescalado_31
+  - first:
+      213: -666855734354589674
+    second: Itch release raw tileset 01 shades reescalado_32
+  - first:
+      213: 3312071879489418228
+    second: Itch release raw tileset 01 shades reescalado_33
+  - first:
+      213: 8667314367271195968
+    second: Itch release raw tileset 01 shades reescalado_34
+  - first:
+      213: 6007819334885993694
+    second: Itch release raw tileset 01 shades reescalado_35
+  - first:
+      213: 1817060614002093544
+    second: Itch release raw tileset 01 shades reescalado_36
+  - first:
+      213: -6662707657958074144
+    second: Itch release raw tileset 01 shades reescalado_37
+  - first:
+      213: -6663026680151491642
+    second: Itch release raw tileset 01 shades reescalado_38
+  - first:
+      213: 8685231332936270235
+    second: Itch release raw tileset 01 shades reescalado_39
+  - first:
+      213: 2424810401084396429
+    second: Itch release raw tileset 01 shades reescalado_40
+  - first:
+      213: 6636182975083704091
+    second: Itch release raw tileset 01 shades reescalado_41
+  - first:
+      213: -470957182172017503
+    second: Itch release raw tileset 01 shades reescalado_42
+  - first:
+      213: 4761699121151714948
+    second: Itch release raw tileset 01 shades reescalado_43
+  - first:
+      213: 3505313730850925861
+    second: Itch release raw tileset 01 shades reescalado_44
+  - first:
+      213: -8840518615836051288
+    second: Itch release raw tileset 01 shades reescalado_45
+  - first:
+      213: 2701965329217679679
+    second: Itch release raw tileset 01 shades reescalado_46
+  - first:
+      213: 8931026562348763949
+    second: Itch release raw tileset 01 shades reescalado_47
+  - first:
+      213: -297345823493119370
+    second: Itch release raw tileset 01 shades reescalado_48
+  - first:
+      213: -2713953374823438853
+    second: Itch release raw tileset 01 shades reescalado_49
+  - first:
+      213: 5003542440672928487
+    second: Itch release raw tileset 01 shades reescalado_50
+  - first:
+      213: -872505262902225975
+    second: Itch release raw tileset 01 shades reescalado_51
+  - first:
+      213: -694017726655442442
+    second: Itch release raw tileset 01 shades reescalado_52
+  - first:
+      213: 8086709946517245968
+    second: Itch release raw tileset 01 shades reescalado_53
+  - first:
+      213: -1140975804570408926
+    second: Itch release raw tileset 01 shades reescalado_54
+  - first:
+      213: 392354101741838630
+    second: Itch release raw tileset 01 shades reescalado_55
+  - first:
+      213: -5128130465920802906
+    second: Itch release raw tileset 01 shades reescalado_56
+  - first:
+      213: 6472266227717297019
+    second: Itch release raw tileset 01 shades reescalado_57
+  - first:
+      213: 1208418159131337913
+    second: Itch release raw tileset 01 shades reescalado_58
+  - first:
+      213: 2668177884669393202
+    second: Itch release raw tileset 01 shades reescalado_59
+  - first:
+      213: 3503509634318972271
+    second: Itch release raw tileset 01 shades reescalado_60
+  - first:
+      213: 6143819158912738734
+    second: Itch release raw tileset 01 shades reescalado_61
+  - first:
+      213: 1779478357482520776
+    second: Itch release raw tileset 01 shades reescalado_62
+  - first:
+      213: -2960823882360820612
+    second: Itch release raw tileset 01 shades reescalado_63
+  - first:
+      213: -4821083120007947852
+    second: Itch release raw tileset 01 shades reescalado_64
+  - first:
+      213: 1942981267229359511
+    second: Itch release raw tileset 01 shades reescalado_65
+  - first:
+      213: 8411199211463052626
+    second: Itch release raw tileset 01 shades reescalado_66
+  - first:
+      213: 6531345863831726546
+    second: Itch release raw tileset 01 shades reescalado_67
+  - first:
+      213: 2276796813151412960
+    second: Itch release raw tileset 01 shades reescalado_68
+  - first:
+      213: -8920490024632974424
+    second: Itch release raw tileset 01 shades reescalado_69
+  - first:
+      213: 5695350032131638505
+    second: Itch release raw tileset 01 shades reescalado_70
+  - first:
+      213: 533321127456016061
+    second: Itch release raw tileset 01 shades reescalado_71
+  - first:
+      213: 850385716412935660
+    second: Itch release raw tileset 01 shades reescalado_72
+  - first:
+      213: 2801129951549578096
+    second: Itch release raw tileset 01 shades reescalado_73
+  - first:
+      213: -5535090125847673224
+    second: Itch release raw tileset 01 shades reescalado_74
+  - first:
+      213: -7639218371065628451
+    second: Itch release raw tileset 01 shades reescalado_75
+  - first:
+      213: -1463278336731014045
+    second: Itch release raw tileset 01 shades reescalado_76
+  - first:
+      213: 2292495846096083152
+    second: Itch release raw tileset 01 shades reescalado_77
+  - first:
+      213: -3418824924191772588
+    second: Itch release raw tileset 01 shades reescalado_78
+  - first:
+      213: -4586082886825277165
+    second: Itch release raw tileset 01 shades reescalado_79
+  - first:
+      213: -3432449375956055965
+    second: Itch release raw tileset 01 shades reescalado_80
+  - first:
+      213: 2451735332335657730
+    second: Itch release raw tileset 01 shades reescalado_81
+  - first:
+      213: -2891308312952564446
+    second: Itch release raw tileset 01 shades reescalado_82
+  - first:
+      213: -4264055826271247984
+    second: Itch release raw tileset 01 shades reescalado_83
+  - first:
+      213: 6052993217466277971
+    second: Itch release raw tileset 01 shades reescalado_84
+  - first:
+      213: 3509748592176465100
+    second: Itch release raw tileset 01 shades reescalado_85
+  - first:
+      213: 6035476269524002824
+    second: Itch release raw tileset 01 shades reescalado_86
+  - first:
+      213: 940600936730812258
+    second: Itch release raw tileset 01 shades reescalado_87
+  - first:
+      213: 2017776719656701176
+    second: Itch release raw tileset 01 shades reescalado_88
+  - first:
+      213: 9203504378468662829
+    second: Itch release raw tileset 01 shades reescalado_89
+  - first:
+      213: -8688394497227274701
+    second: Itch release raw tileset 01 shades reescalado_90
+  - first:
+      213: -3130058868404266336
+    second: Itch release raw tileset 01 shades reescalado_91
+  - first:
+      213: -229910459372442254
+    second: Itch release raw tileset 01 shades reescalado_92
+  - first:
+      213: -3581060418415461714
+    second: Itch release raw tileset 01 shades reescalado_93
+  - first:
+      213: -5214039396046785563
+    second: Itch release raw tileset 01 shades reescalado_94
+  - first:
+      213: -7545112262441310991
+    second: Itch release raw tileset 01 shades reescalado_95
+  - first:
+      213: -1423203931633910477
+    second: Itch release raw tileset 01 shades reescalado_96
+  - first:
+      213: 4216088959434372238
+    second: Itch release raw tileset 01 shades reescalado_97
+  - first:
+      213: 5863347590680540215
+    second: Itch release raw tileset 01 shades reescalado_98
+  - first:
+      213: 3719584758373771575
+    second: Itch release raw tileset 01 shades reescalado_99
+  - first:
+      213: 2038826687083987855
+    second: Itch release raw tileset 01 shades reescalado_100
+  - first:
+      213: -6891341205637830823
+    second: Itch release raw tileset 01 shades reescalado_101
+  - first:
+      213: 7955319091690617639
+    second: Itch release raw tileset 01 shades reescalado_102
+  - first:
+      213: 8793762408008986841
+    second: Itch release raw tileset 01 shades reescalado_103
+  - first:
+      213: -6200604050849727403
+    second: Itch release raw tileset 01 shades reescalado_104
+  - first:
+      213: 7734064985956712074
+    second: Itch release raw tileset 01 shades reescalado_105
+  - first:
+      213: 2344223805431027180
+    second: Itch release raw tileset 01 shades reescalado_106
+  - first:
+      213: -5378250103823802140
+    second: Itch release raw tileset 01 shades reescalado_107
+  - first:
+      213: -3055276227101153618
+    second: Itch release raw tileset 01 shades reescalado_108
+  - first:
+      213: -2206782770033795816
+    second: Itch release raw tileset 01 shades reescalado_109
+  - first:
+      213: 369546903507584038
+    second: Itch release raw tileset 01 shades reescalado_110
+  - first:
+      213: 688342266934825829
+    second: Itch release raw tileset 01 shades reescalado_111
+  - first:
+      213: -5537327575131597110
+    second: Itch release raw tileset 01 shades reescalado_112
+  - first:
+      213: -2878834001325253072
+    second: Itch release raw tileset 01 shades reescalado_113
+  - first:
+      213: 3216055450218173163
+    second: Itch release raw tileset 01 shades reescalado_114
+  - first:
+      213: 3714592973602492651
+    second: Itch release raw tileset 01 shades reescalado_115
+  - first:
+      213: 7843175434526594849
+    second: Itch release raw tileset 01 shades reescalado_116
+  - first:
+      213: -4048465549921918429
+    second: Itch release raw tileset 01 shades reescalado_117
+  - first:
+      213: 8842297435579427930
+    second: Itch release raw tileset 01 shades reescalado_118
+  - first:
+      213: 3586948488964866530
+    second: Itch release raw tileset 01 shades reescalado_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fcaa8176281504c98704586d617140
+      internalID: -8388530490162838509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065810758188604ea5f5df294abc9b8
+      internalID: -1242182303906997490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d5e6e527428ba478c9494243184ec7
+      internalID: 6219119819731030358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316213c521f3ba441bf96dea6746fb2c
+      internalID: 2608525858336532258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a33a59ba408444d8ca195b1e60a79b
+      internalID: 8456669370655505465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_5
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f2337c09afc849ab8655e1dfd6173
+      internalID: -4741143916318861939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264bf80bce9d7f046bee4fbb3ce594e5
+      internalID: 9013939626796368756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4480
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cb4d1cafa1acd4d8d21165b970e0fd
+      internalID: -7301104940374221108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683848bc270325148a32b6f6e30dd89b
+      internalID: 5616849883833340016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac175025cb5a54438cc2395fa4003b1
+      internalID: -8140298726969007921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29090d6a4741c4b9a327faaf26b2a2
+      internalID: -7564729224775593619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f492ac096b6974aad1494b42647725
+      internalID: 8898408972980623767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2832e265352614c4c9de04e50b3b0d8b
+      internalID: 3813746955692345139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57c3835ccf88f42bdf8ff7862a6b96
+      internalID: -4661802319806123549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92b098be9ec4e4e9767a0c80c2f4b1
+      internalID: 3733264269098143784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_15
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4160
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd59f1d1de882243b5c453b9f465384
+      internalID: 7431586472633932547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971988a8cb0037547957997a1c3abdcd
+      internalID: 6007880440423541542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b1160489162d940ab8d5d0ef656c5e
+      internalID: 7325701200229609062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ddc0baaf870334ba14a66ff1069fa4
+      internalID: -4506321166779312837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c32697448db654d9cea4555203726f
+      internalID: -8458504132002305231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba7bd178f4b1a4bb37297b3d783169
+      internalID: 6935149095751592008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3b2271f5c5b64a9e4949c07f4fc23
+      internalID: 3608846351874751731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_22
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e09ac5f95d120a42bc6390101dc68e1
+      internalID: 6431774043123297522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_23
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3840
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f287d7443cbafe429c9690bf650f9f1
+      internalID: -8736819419890196924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579ad001186f4c7449a3269797fe6cab
+      internalID: 6523276029754138536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3140c64f512800b42af2bb1ce3eca165
+      internalID: -279305003552967887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db142e86e2afda34688131bed629cfe8
+      internalID: 742316142511114819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773693b9b5915c74fa08ab8507d9efa7
+      internalID: 4919282495858859916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5cd719864243f44b3f645d93ec461f
+      internalID: 453193476020846237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_29
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cacd2258a58d248bdda5b182574fa6
+      internalID: -2195071399504538731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b543f5e7a60df8b44a9ad129911fc934
+      internalID: -5146850241236551218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_31
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3520
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50abace95f1c04db458129d278fd58
+      internalID: -3603421118196373200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a413175416cd4f844995c691bc5db
+      internalID: -666855734354589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8989548adf1e3a4cb51ffc0f843cb9c
+      internalID: 3312071879489418228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892ddcb91e36384c923f08ca5816655
+      internalID: 8667314367271195968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535b7c5d48e786a498e32f41e9c2c709
+      internalID: 6007819334885993694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_36
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1142a8f38c5b4c4dbaf408e3312e5dd
+      internalID: 1817060614002093544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62944f5bfd5991a43a788a01021231ea
+      internalID: -6662707657958074144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae89b50dca597a48a564633b5aaf721
+      internalID: -6663026680151491642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_39
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3200
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb491bb5ea2fd4687ea7a5045c6193
+      internalID: 8685231332936270235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a248a39c0623dd8438957bb15598b777
+      internalID: 2424810401084396429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36a4a4efffe844b817a4810f785247
+      internalID: 6636182975083704091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c306c31fa75b409a2d5bdf7f8aef9
+      internalID: -470957182172017503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_43
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d40422b60f124db0ce928ce3cb623
+      internalID: 4761699121151714948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a440dcbdfa97c04fabdd076dbc48e3c
+      internalID: 3505313730850925861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_45
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e52fe3c671a8f14086ec219d0b0e1a6
+      internalID: -8840518615836051288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_46
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b54a0a566e534590a60e498b9a501
+      internalID: 2701965329217679679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_47
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2880
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3b5c7d222fe594fbf8a7e220eea186
+      internalID: 8931026562348763949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1963118e914711345bc57cb9b4acdbe3
+      internalID: -297345823493119370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a43bdf2742426949a3f1feb78dc6290
+      internalID: -2713953374823438853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd31b582203803489943fcfe9a0f297
+      internalID: 5003542440672928487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc94a27ca2ebc0468d90a5057ee46db
+      internalID: -872505262902225975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8664f80440438c44a859b6c6ace953a4
+      internalID: -694017726655442442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ea2794fd80378418e70b3d05ad7e78
+      internalID: 8086709946517245968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_54
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29954d34911214cb5afd7b5a8d0279
+      internalID: -1140975804570408926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_55
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2560
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08579af4ae9c9e54492c1b5f65328f79
+      internalID: 392354101741838630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8f732dc6552ff4b96b514de98a1301
+      internalID: -5128130465920802906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a3eb5e5ce55a4e8356e179045f865
+      internalID: 6472266227717297019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850efa039eec1d4e9c80bbd07c08271
+      internalID: 1208418159131337913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_59
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2243
+        width: 316
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9258b7c7fca80484cb984e24970bb0e7
+      internalID: 2668177884669393202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2243
+        width: 318
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a9b11844ced954498d75bece9e03d4
+      internalID: 3503509634318972271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_61
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2242
+        width: 317
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6897a506e346b4396e3b554e99587a
+      internalID: 6143819158912738734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_62
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2242
+        width: 317
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4889445a33ec409f740ded0818518
+      internalID: 1779478357482520776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_63
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2240
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d04f976d24784bbb096a53e94332a
+      internalID: -2960823882360820612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7b6170f88df534181bd81588d96da3
+      internalID: -4821083120007947852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1a36fb3a5eca499154c56d635c44c
+      internalID: 1942981267229359511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91de4f4c6ac5b045bf2721733f0e75c
+      internalID: 8411199211463052626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b738ad6258674895de56db0ab35db
+      internalID: 6531345863831726546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_68
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88be7a9e9b40d4185f81881d67d83f
+      internalID: 2276796813151412960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_69
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575c6d3049ecbe47b4bcf6433a8ca6e
+      internalID: -8920490024632974424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_70
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac447761872a0d45b79a6ef2547402d
+      internalID: 5695350032131638505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_71
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1920
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff67e112c33eb4fa9d86c91ab8056f
+      internalID: 533321127456016061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6f3c55574005d4295cd89e3b8f2e9d
+      internalID: 850385716412935660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca38ca015e94546b1f39f7f34cd77d
+      internalID: 2801129951549578096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35f13aec211a7547bc8f9d0d66782b8
+      internalID: -5535090125847673224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8579669bed02b42bb3dc408c77a85e
+      internalID: -7639218371065628451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_76
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24032b4b6c8efa94391346eb65f22f00
+      internalID: -1463278336731014045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_77
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbd40c21c369ff4399963ff24d776fc
+      internalID: 2292495846096083152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_78
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65551c79a2de4c74194f02d23d4c5ba6
+      internalID: -3418824924191772588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_79
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e082fa89364544b90645ddf92af546
+      internalID: -4586082886825277165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2814417589364980f76ff55528bf9
+      internalID: -3432449375956055965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238d3bc68e9428b418b3b8dc5665d648
+      internalID: 2451735332335657730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cad3c47c73df744a9ae7076015c960
+      internalID: -2891308312952564446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48302969ce46ba04392a6e6940aacf3e
+      internalID: -4264055826271247984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_84
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1283
+        width: 316
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fc1844aa78e64393883fda5f7d05e
+      internalID: 6052993217466277971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_85
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15f468c2662bfa478b2872df2dbdbbd
+      internalID: 3509748592176465100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_86
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722980d7ae828b34e8d30e510d58354f
+      internalID: 6035476269524002824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_87
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ab5fad1da3e44188fa4290cbcbfb1
+      internalID: 940600936730812258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996a039287eb3e045a5270b6005a6ff9
+      internalID: 2017776719656701176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174c94b0cf12e554ca5bc7744baa7fc1
+      internalID: 9203504378468662829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9a480946fb59458b6f537c5b63f39
+      internalID: -8688394497227274701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_91
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c403809dea099408c657a6d0aa2dcd
+      internalID: -3130058868404266336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_92
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bf4c428a2fb184b941bc56f782ac7e
+      internalID: -229910459372442254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_93
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15205de822d9a4f8c38d301c12742d
+      internalID: -3581060418415461714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_94
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189b979f305ebce4cbc892487d2961c6
+      internalID: -5214039396046785563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_95
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 960
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9e4b26c723bf44bb946a7fa787446b
+      internalID: -7545112262441310991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e4e90743b8574fa4b04b08d8a247e
+      internalID: -1423203931633910477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_97
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ebd58224224e24e84c01b4a87699d3
+      internalID: 4216088959434372238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896289412e702ad469ef0a9940b77379
+      internalID: 5863347590680540215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_99
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38b625cf9c78da4a921cbc1407770e4
+      internalID: 3719584758373771575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4737396b502412a4b98dd98611d9b185
+      internalID: 2038826687083987855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_101
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15d53b06e6122441a4f79ea30172c40
+      internalID: -6891341205637830823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_102
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bd52a0d6410eb4da3ccb0ce8c9f0fc
+      internalID: 7955319091690617639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_103
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 640
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e16eb82212654ebef03ccda050315
+      internalID: 8793762408008986841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44838f40fa4ac674a9744fd3f85cfbef
+      internalID: -6200604050849727403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 322
+        width: 316
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7616d22a6932bfd43a23a903291f4b4b
+      internalID: 7734064985956712074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_106
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d8028eaca94343989b24d41b1d57e
+      internalID: 2344223805431027180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_107
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8507c48d7b2416743bcb61edb40833ad
+      internalID: -5378250103823802140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_108
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15bc036c05196a42827af9eacad02b2
+      internalID: -3055276227101153618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_109
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485d9288cce75cc4ca0c9e81e117eaf1
+      internalID: -2206782770033795816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_110
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ac1cfbccbb4341914db320b51a6d1
+      internalID: 369546903507584038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_111
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 320
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13799e8ef7f45c41893978fc2a76349
+      internalID: 688342266934825829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 316
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28694b20ca497df4980e56cae6ee8be1
+      internalID: -5537327575131597110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2
+        width: 316
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8740054ec0c357439325991bc2e1cbd
+      internalID: -2878834001325253072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2
+        width: 318
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee5b8ba1e54892459119c4c959caf5f
+      internalID: 3216055450218173163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b27ea70fb9b1db43b0eeca463915f0d
+      internalID: 3714592973602492651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 320
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80cfcfe59763254eaa548b650e91357
+      internalID: 7843175434526594849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_117
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bae9a4416652e14caea1f36497ffefe
+      internalID: -4048465549921918429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_118
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2dc8cfe4152954ab66255ab7dada58
+      internalID: 8842297435579427930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset 01 shades reescalado_119
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e1fc96600ba64aad8bd88e27df2cc
+      internalID: 3586948488964866530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Itch release raw tileset 01 shades reescalado_88: 2017776719656701176
+      Itch release raw tileset 01 shades reescalado_108: -3055276227101153618
+      Itch release raw tileset 01 shades reescalado_90: -8688394497227274701
+      Itch release raw tileset 01 shades reescalado_44: 3505313730850925861
+      Itch release raw tileset 01 shades reescalado_83: -4264055826271247984
+      Itch release raw tileset 01 shades reescalado_16: 6007880440423541542
+      Itch release raw tileset 01 shades reescalado_76: -1463278336731014045
+      Itch release raw tileset 01 shades reescalado_19: -8458504132002305231
+      Itch release raw tileset 01 shades reescalado_105: 7734064985956712074
+      Itch release raw tileset 01 shades reescalado_82: -2891308312952564446
+      Itch release raw tileset 01 shades reescalado_48: -297345823493119370
+      Itch release raw tileset 01 shades reescalado_58: 1208418159131337913
+      Itch release raw tileset 01 shades reescalado_38: -6663026680151491642
+      Itch release raw tileset 01 shades reescalado_23: -8736819419890196924
+      Itch release raw tileset 01 shades reescalado_60: 3503509634318972271
+      Itch release raw tileset 01 shades reescalado_49: -2713953374823438853
+      Itch release raw tileset 01 shades reescalado_46: 2701965329217679679
+      Itch release raw tileset 01 shades reescalado_57: 6472266227717297019
+      Itch release raw tileset 01 shades reescalado_32: -666855734354589674
+      Itch release raw tileset 01 shades reescalado_81: 2451735332335657730
+      Itch release raw tileset 01 shades reescalado_73: 2801129951549578096
+      Itch release raw tileset 01 shades reescalado_53: 8086709946517245968
+      Itch release raw tileset 01 shades reescalado_24: 6523276029754138536
+      Itch release raw tileset 01 shades reescalado_111: 688342266934825829
+      Itch release raw tileset 01 shades reescalado_75: -7639218371065628451
+      Itch release raw tileset 01 shades reescalado_54: -1140975804570408926
+      Itch release raw tileset 01 shades reescalado_22: 6431774043123297522
+      Itch release raw tileset 01 shades reescalado_51: -872505262902225975
+      Itch release raw tileset 01 shades reescalado_89: 9203504378468662829
+      Itch release raw tileset 01 shades reescalado_34: 8667314367271195968
+      Itch release raw tileset 01 shades reescalado_62: 1779478357482520776
+      Itch release raw tileset 01 shades reescalado_63: -2960823882360820612
+      Itch release raw tileset 01 shades reescalado_45: -8840518615836051288
+      Itch release raw tileset 01 shades reescalado_110: 369546903507584038
+      Itch release raw tileset 01 shades reescalado_114: 3216055450218173163
+      Itch release raw tileset 01 shades reescalado_115: 3714592973602492651
+      Itch release raw tileset 01 shades reescalado_14: 3733264269098143784
+      Itch release raw tileset 01 shades reescalado_13: -4661802319806123549
+      Itch release raw tileset 01 shades reescalado_40: 2424810401084396429
+      Itch release raw tileset 01 shades reescalado_18: -4506321166779312837
+      Itch release raw tileset 01 shades reescalado_97: 4216088959434372238
+      Itch release raw tileset 01 shades reescalado_91: -3130058868404266336
+      Itch release raw tileset 01 shades reescalado_12: 3813746955692345139
+      Itch release raw tileset 01 shades reescalado_87: 940600936730812258
+      Itch release raw tileset 01 shades reescalado_26: 742316142511114819
+      Itch release raw tileset 01 shades reescalado_42: -470957182172017503
+      Itch release raw tileset 01 shades reescalado_72: 850385716412935660
+      Itch release raw tileset 01 shades reescalado_3: 2608525858336532258
+      Itch release raw tileset 01 shades reescalado_113: -2878834001325253072
+      Itch release raw tileset 01 shades reescalado_10: -7564729224775593619
+      Itch release raw tileset 01 shades reescalado_71: 533321127456016061
+      Itch release raw tileset 01 shades reescalado_96: -1423203931633910477
+      Itch release raw tileset 01 shades reescalado_109: -2206782770033795816
+      Itch release raw tileset 01 shades reescalado_106: 2344223805431027180
+      Itch release raw tileset 01 shades reescalado_61: 6143819158912738734
+      Itch release raw tileset 01 shades reescalado_66: 8411199211463052626
+      Itch release raw tileset 01 shades reescalado_101: -6891341205637830823
+      Itch release raw tileset 01 shades reescalado_35: 6007819334885993694
+      Itch release raw tileset 01 shades reescalado_27: 4919282495858859916
+      Itch release raw tileset 01 shades reescalado_104: -6200604050849727403
+      Itch release raw tileset 01 shades reescalado_39: 8685231332936270235
+      Itch release raw tileset 01 shades reescalado_79: -4586082886825277165
+      Itch release raw tileset 01 shades reescalado_50: 5003542440672928487
+      Itch release raw tileset 01 shades reescalado_31: -3603421118196373200
+      Itch release raw tileset 01 shades reescalado_59: 2668177884669393202
+      Itch release raw tileset 01 shades reescalado_112: -5537327575131597110
+      Itch release raw tileset 01 shades reescalado_5: -4741143916318861939
+      Itch release raw tileset 01 shades reescalado_118: 8842297435579427930
+      Itch release raw tileset 01 shades reescalado_30: -5146850241236551218
+      Itch release raw tileset 01 shades reescalado_99: 3719584758373771575
+      Itch release raw tileset 01 shades reescalado_67: 6531345863831726546
+      Itch release raw tileset 01 shades reescalado_21: 3608846351874751731
+      Itch release raw tileset 01 shades reescalado_86: 6035476269524002824
+      Itch release raw tileset 01 shades reescalado_0: -8388530490162838509
+      Itch release raw tileset 01 shades reescalado_1: -1242182303906997490
+      Itch release raw tileset 01 shades reescalado_74: -5535090125847673224
+      Itch release raw tileset 01 shades reescalado_95: -7545112262441310991
+      Itch release raw tileset 01 shades reescalado_15: 7431586472633932547
+      Itch release raw tileset 01 shades reescalado_103: 8793762408008986841
+      Itch release raw tileset 01 shades reescalado_78: -3418824924191772588
+      Itch release raw tileset 01 shades reescalado_4: 8456669370655505465
+      Itch release raw tileset 01 shades reescalado_92: -229910459372442254
+      Itch release raw tileset 01 shades reescalado_7: -7301104940374221108
+      Itch release raw tileset 01 shades reescalado_93: -3581060418415461714
+      Itch release raw tileset 01 shades reescalado_55: 392354101741838630
+      Itch release raw tileset 01 shades reescalado_69: -8920490024632974424
+      Itch release raw tileset 01 shades reescalado_94: -5214039396046785563
+      Itch release raw tileset 01 shades reescalado_37: -6662707657958074144
+      Itch release raw tileset 01 shades reescalado_65: 1942981267229359511
+      Itch release raw tileset 01 shades reescalado_117: -4048465549921918429
+      Itch release raw tileset 01 shades reescalado_64: -4821083120007947852
+      Itch release raw tileset 01 shades reescalado_80: -3432449375956055965
+      Itch release raw tileset 01 shades reescalado_8: 5616849883833340016
+      Itch release raw tileset 01 shades reescalado_70: 5695350032131638505
+      Itch release raw tileset 01 shades reescalado_77: 2292495846096083152
+      Itch release raw tileset 01 shades reescalado_28: 453193476020846237
+      Itch release raw tileset 01 shades reescalado_85: 3509748592176465100
+      Itch release raw tileset 01 shades reescalado_25: -279305003552967887
+      Itch release raw tileset 01 shades reescalado_98: 5863347590680540215
+      Itch release raw tileset 01 shades reescalado_119: 3586948488964866530
+      Itch release raw tileset 01 shades reescalado_107: -5378250103823802140
+      Itch release raw tileset 01 shades reescalado_116: 7843175434526594849
+      Itch release raw tileset 01 shades reescalado_17: 7325701200229609062
+      Itch release raw tileset 01 shades reescalado_20: 6935149095751592008
+      Itch release raw tileset 01 shades reescalado_11: 8898408972980623767
+      Itch release raw tileset 01 shades reescalado_56: -5128130465920802906
+      Itch release raw tileset 01 shades reescalado_6: 9013939626796368756
+      Itch release raw tileset 01 shades reescalado_2: 6219119819731030358
+      Itch release raw tileset 01 shades reescalado_9: -8140298726969007921
+      Itch release raw tileset 01 shades reescalado_102: 7955319091690617639
+      Itch release raw tileset 01 shades reescalado_68: 2276796813151412960
+      Itch release raw tileset 01 shades reescalado_36: 1817060614002093544
+      Itch release raw tileset 01 shades reescalado_47: 8931026562348763949
+      Itch release raw tileset 01 shades reescalado_84: 6052993217466277971
+      Itch release raw tileset 01 shades reescalado_41: 6636182975083704091
+      Itch release raw tileset 01 shades reescalado_100: 2038826687083987855
+      Itch release raw tileset 01 shades reescalado_52: -694017726655442442
+      Itch release raw tileset 01 shades reescalado_33: 3312071879489418228
+      Itch release raw tileset 01 shades reescalado_29: -2195071399504538731
+      Itch release raw tileset 01 shades reescalado_43: 4761699121151714948
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

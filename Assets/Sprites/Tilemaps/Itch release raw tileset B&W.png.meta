@@ -1,0 +1,3132 @@
+fileFormatVersion: 2
+guid: fd3e1348b57422a40a18a56ce4ccbe3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2095785274880205542
+    second: Itch release raw tileset B&W_0
+  - first:
+      213: -1553811588191516270
+    second: Itch release raw tileset B&W_1
+  - first:
+      213: -6536060570096236820
+    second: Itch release raw tileset B&W_2
+  - first:
+      213: -3039425276992967074
+    second: Itch release raw tileset B&W_3
+  - first:
+      213: 6884232161876363933
+    second: Itch release raw tileset B&W_4
+  - first:
+      213: 6685145004654112104
+    second: Itch release raw tileset B&W_5
+  - first:
+      213: 7180980791204543856
+    second: Itch release raw tileset B&W_6
+  - first:
+      213: -1445352505902582395
+    second: Itch release raw tileset B&W_7
+  - first:
+      213: 3407451490141193450
+    second: Itch release raw tileset B&W_8
+  - first:
+      213: -8308614682757027371
+    second: Itch release raw tileset B&W_9
+  - first:
+      213: 441324403217153906
+    second: Itch release raw tileset B&W_10
+  - first:
+      213: -1027593752245921960
+    second: Itch release raw tileset B&W_11
+  - first:
+      213: -4301062010789935950
+    second: Itch release raw tileset B&W_12
+  - first:
+      213: -9071484549148727927
+    second: Itch release raw tileset B&W_13
+  - first:
+      213: -7373801415720680342
+    second: Itch release raw tileset B&W_14
+  - first:
+      213: -7977328203373702577
+    second: Itch release raw tileset B&W_15
+  - first:
+      213: 1472611244990619068
+    second: Itch release raw tileset B&W_16
+  - first:
+      213: -6001720473054184908
+    second: Itch release raw tileset B&W_17
+  - first:
+      213: -1499168997526540837
+    second: Itch release raw tileset B&W_18
+  - first:
+      213: 2435518814397246786
+    second: Itch release raw tileset B&W_19
+  - first:
+      213: -4109691105084199332
+    second: Itch release raw tileset B&W_20
+  - first:
+      213: 6039517088291974869
+    second: Itch release raw tileset B&W_21
+  - first:
+      213: 3543663829176116642
+    second: Itch release raw tileset B&W_22
+  - first:
+      213: -1882942897708332875
+    second: Itch release raw tileset B&W_23
+  - first:
+      213: -988567840662089513
+    second: Itch release raw tileset B&W_24
+  - first:
+      213: -8389869061602540296
+    second: Itch release raw tileset B&W_25
+  - first:
+      213: -7449346701099838508
+    second: Itch release raw tileset B&W_26
+  - first:
+      213: 7075320933109325907
+    second: Itch release raw tileset B&W_27
+  - first:
+      213: -3470795078133438360
+    second: Itch release raw tileset B&W_28
+  - first:
+      213: 3611365969879075880
+    second: Itch release raw tileset B&W_29
+  - first:
+      213: 8812290590852421793
+    second: Itch release raw tileset B&W_30
+  - first:
+      213: -3396263895808695972
+    second: Itch release raw tileset B&W_31
+  - first:
+      213: 7709142251474383657
+    second: Itch release raw tileset B&W_32
+  - first:
+      213: 2570063900779665543
+    second: Itch release raw tileset B&W_33
+  - first:
+      213: -6365402921809223135
+    second: Itch release raw tileset B&W_34
+  - first:
+      213: -512191995775319798
+    second: Itch release raw tileset B&W_35
+  - first:
+      213: 7966921670568968290
+    second: Itch release raw tileset B&W_36
+  - first:
+      213: -4738965658761885063
+    second: Itch release raw tileset B&W_37
+  - first:
+      213: 8129388675486895543
+    second: Itch release raw tileset B&W_38
+  - first:
+      213: -8283456396900605314
+    second: Itch release raw tileset B&W_39
+  - first:
+      213: 4037210692072489002
+    second: Itch release raw tileset B&W_40
+  - first:
+      213: 5832177586284665019
+    second: Itch release raw tileset B&W_41
+  - first:
+      213: -3478160491029984391
+    second: Itch release raw tileset B&W_42
+  - first:
+      213: -4691216395985998080
+    second: Itch release raw tileset B&W_43
+  - first:
+      213: 5007948569129374394
+    second: Itch release raw tileset B&W_44
+  - first:
+      213: -6273916502642379699
+    second: Itch release raw tileset B&W_45
+  - first:
+      213: 5062933078594974108
+    second: Itch release raw tileset B&W_46
+  - first:
+      213: 386192104213105152
+    second: Itch release raw tileset B&W_47
+  - first:
+      213: 857218358748658507
+    second: Itch release raw tileset B&W_48
+  - first:
+      213: 2947890547228243912
+    second: Itch release raw tileset B&W_49
+  - first:
+      213: 7362019442354251891
+    second: Itch release raw tileset B&W_50
+  - first:
+      213: 6799715089156859535
+    second: Itch release raw tileset B&W_51
+  - first:
+      213: 6644926649419564285
+    second: Itch release raw tileset B&W_52
+  - first:
+      213: 1951365149213450154
+    second: Itch release raw tileset B&W_53
+  - first:
+      213: 5959755958344226402
+    second: Itch release raw tileset B&W_54
+  - first:
+      213: -6215842648662896418
+    second: Itch release raw tileset B&W_55
+  - first:
+      213: -3244503034274162726
+    second: Itch release raw tileset B&W_56
+  - first:
+      213: -8029713700907017055
+    second: Itch release raw tileset B&W_57
+  - first:
+      213: 3291804236792586062
+    second: Itch release raw tileset B&W_58
+  - first:
+      213: 8736304852045196250
+    second: Itch release raw tileset B&W_59
+  - first:
+      213: 8462369252509490947
+    second: Itch release raw tileset B&W_60
+  - first:
+      213: -3392122143839799481
+    second: Itch release raw tileset B&W_61
+  - first:
+      213: -5118128180244231531
+    second: Itch release raw tileset B&W_62
+  - first:
+      213: 7171346364547663738
+    second: Itch release raw tileset B&W_63
+  - first:
+      213: 7549665603022046351
+    second: Itch release raw tileset B&W_64
+  - first:
+      213: 51564148570687161
+    second: Itch release raw tileset B&W_65
+  - first:
+      213: -4864504792775896656
+    second: Itch release raw tileset B&W_66
+  - first:
+      213: -2631992397435636827
+    second: Itch release raw tileset B&W_67
+  - first:
+      213: -3706683951723568196
+    second: Itch release raw tileset B&W_68
+  - first:
+      213: 3253067759491855251
+    second: Itch release raw tileset B&W_69
+  - first:
+      213: -8142018152379262314
+    second: Itch release raw tileset B&W_70
+  - first:
+      213: -6961345965921739905
+    second: Itch release raw tileset B&W_71
+  - first:
+      213: -5746102336659282272
+    second: Itch release raw tileset B&W_72
+  - first:
+      213: -7052343196938301684
+    second: Itch release raw tileset B&W_73
+  - first:
+      213: -872508639113113999
+    second: Itch release raw tileset B&W_74
+  - first:
+      213: 8461816421571877590
+    second: Itch release raw tileset B&W_75
+  - first:
+      213: 2714423501493620573
+    second: Itch release raw tileset B&W_76
+  - first:
+      213: -3220671560308509288
+    second: Itch release raw tileset B&W_77
+  - first:
+      213: -3892898415535167260
+    second: Itch release raw tileset B&W_78
+  - first:
+      213: 4677504018671696036
+    second: Itch release raw tileset B&W_79
+  - first:
+      213: 8230246792975368165
+    second: Itch release raw tileset B&W_80
+  - first:
+      213: -2554848798595019344
+    second: Itch release raw tileset B&W_81
+  - first:
+      213: -843381334929851605
+    second: Itch release raw tileset B&W_82
+  - first:
+      213: -6853568211957571637
+    second: Itch release raw tileset B&W_83
+  - first:
+      213: -6125520411494577816
+    second: Itch release raw tileset B&W_84
+  - first:
+      213: -4904839189904664109
+    second: Itch release raw tileset B&W_85
+  - first:
+      213: -6376504845335608863
+    second: Itch release raw tileset B&W_86
+  - first:
+      213: 823403146225820436
+    second: Itch release raw tileset B&W_87
+  - first:
+      213: -5782474128909329552
+    second: Itch release raw tileset B&W_88
+  - first:
+      213: 6218634286303703184
+    second: Itch release raw tileset B&W_89
+  - first:
+      213: -1187605403355808005
+    second: Itch release raw tileset B&W_90
+  - first:
+      213: -2031419659845558654
+    second: Itch release raw tileset B&W_91
+  - first:
+      213: -6073756078033598882
+    second: Itch release raw tileset B&W_92
+  - first:
+      213: 7587544994519346698
+    second: Itch release raw tileset B&W_93
+  - first:
+      213: 8446132758831714925
+    second: Itch release raw tileset B&W_94
+  - first:
+      213: -1986469061661279890
+    second: Itch release raw tileset B&W_95
+  - first:
+      213: 1652960445957658222
+    second: Itch release raw tileset B&W_96
+  - first:
+      213: 4881684499694698080
+    second: Itch release raw tileset B&W_97
+  - first:
+      213: 4821916565944920255
+    second: Itch release raw tileset B&W_98
+  - first:
+      213: -1704747676261377237
+    second: Itch release raw tileset B&W_99
+  - first:
+      213: 3544047648118493959
+    second: Itch release raw tileset B&W_100
+  - first:
+      213: -3423583114696015327
+    second: Itch release raw tileset B&W_101
+  - first:
+      213: 4682394828950694286
+    second: Itch release raw tileset B&W_102
+  - first:
+      213: -1419654973172125116
+    second: Itch release raw tileset B&W_103
+  - first:
+      213: 8819858277298907612
+    second: Itch release raw tileset B&W_104
+  - first:
+      213: -8831303527875530487
+    second: Itch release raw tileset B&W_105
+  - first:
+      213: -5145173738627864811
+    second: Itch release raw tileset B&W_106
+  - first:
+      213: -8468193864679821897
+    second: Itch release raw tileset B&W_107
+  - first:
+      213: -1546975812845869074
+    second: Itch release raw tileset B&W_108
+  - first:
+      213: -4657657151256316340
+    second: Itch release raw tileset B&W_109
+  - first:
+      213: 9130468397626466114
+    second: Itch release raw tileset B&W_110
+  - first:
+      213: -7652526383240378446
+    second: Itch release raw tileset B&W_111
+  - first:
+      213: 8808937997674264607
+    second: Itch release raw tileset B&W_112
+  - first:
+      213: 1527452343881449621
+    second: Itch release raw tileset B&W_113
+  - first:
+      213: 2546915023927291500
+    second: Itch release raw tileset B&W_114
+  - first:
+      213: -4855851421175755941
+    second: Itch release raw tileset B&W_115
+  - first:
+      213: -3411737553794927095
+    second: Itch release raw tileset B&W_116
+  - first:
+      213: -5384685569180002175
+    second: Itch release raw tileset B&W_117
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018baa9f1d75704439d7c91f34b94d01
+      internalID: -2095785274880205542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df94318db2aab34c8230f9abb88f7c9
+      internalID: -1553811588191516270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4e14aa786b0774a811810a5002f84f
+      internalID: -6536060570096236820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c16ebd6503c847b45c463f2ce74ab
+      internalID: -3039425276992967074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2137770c814974a9ad1743648233f9
+      internalID: 6884232161876363933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175491e5bbff674b9ee5829a93bdc75
+      internalID: 6685145004654112104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ebab5df1c1a04cbdefae94e490e82
+      internalID: 7180980791204543856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3d0f97ca09dc4ca9f774fbaacf539
+      internalID: -1445352505902582395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed95a2be34b009d4cbd064bf45b26ffc
+      internalID: 3407451490141193450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9743f3c8f62624ea562948aadbb97e
+      internalID: -8308614682757027371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d9bcf523cb0149b1f83bcf92459fb
+      internalID: 441324403217153906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b279ed8f0df014aad31136170d6819
+      internalID: -1027593752245921960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7a227bb7d56f141bde139873803373
+      internalID: -4301062010789935950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd95b9c0f39656459486f066e55b77b
+      internalID: -9071484549148727927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9455c02ea9970eb478da4ff07de281a1
+      internalID: -7373801415720680342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb92ef54866a84992c208486647e86
+      internalID: -7977328203373702577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59459452c4a12e84cb88706265325f79
+      internalID: 1472611244990619068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230f159f65c8c194aa0fc29a04fc69b4
+      internalID: -6001720473054184908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c5b06c10b009f4188adbfd1040d691
+      internalID: -1499168997526540837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420af5ad4cf45234e96a5313172cc45d
+      internalID: 2435518814397246786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5734cfdee23a62a40983bc479af2bac8
+      internalID: -4109691105084199332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3773beb05a60c9647bd575ef87b17bc2
+      internalID: 6039517088291974869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e102ac1736d414c85d1f32dcac97b1
+      internalID: 3543663829176116642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88d2323435f0a4aafd5b68f744f3fa
+      internalID: -1882942897708332875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7640801e31c572418000cf8feb21671
+      internalID: -988567840662089513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db6c2f1207ba548b3d90438b6812ca
+      internalID: -8389869061602540296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e786885a1264fe4f94bc4cc9e4fab1a
+      internalID: -7449346701099838508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f0cf1d03047304c8f2f531fef096d7
+      internalID: 7075320933109325907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec59b43a9116c4b81b805c8b0aa30c
+      internalID: -3470795078133438360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3e8074160d85445bdebb9c08da972e
+      internalID: 3611365969879075880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16830aa535dd6954b8049253a1c14b28
+      internalID: 8812290590852421793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a96eca9469eb89499419271b75812fd
+      internalID: -3396263895808695972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cce4d476c40f84ab5d4cc5810a1eb5
+      internalID: 7709142251474383657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63652d0c690b27447b10865e8eb6e325
+      internalID: 2570063900779665543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099726f480d9c484c9dc6bb290a251bc
+      internalID: -6365402921809223135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f4a25807c82a438d4c249f2f6abcf
+      internalID: -512191995775319798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa278607f984da4c974c95b960a7d9c
+      internalID: 7966921670568968290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2407c795699ed214fb14fb26067af0d4
+      internalID: -4738965658761885063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d2e75f5af3fe49b1ea2d8ed42492b
+      internalID: 8129388675486895543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f21fe795b72cb469c69e1a587f3e51
+      internalID: -8283456396900605314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cbf519298c5f74c83031dbffeedc00
+      internalID: 4037210692072489002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff6df21f9505b342afe9926a91c2036
+      internalID: 5832177586284665019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c1c4c16a98fa4380fc47bfe563e06
+      internalID: -3478160491029984391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19f437d52b6884ab062aaa97d8367d
+      internalID: -4691216395985998080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350f562340b6aa4d8bd6578f6505b2d
+      internalID: 5007948569129374394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eea3c52176d9748b1a32b8b94a44ad
+      internalID: -6273916502642379699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_46
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb60afa00e38144aac88645e25c65d
+      internalID: 5062933078594974108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_47
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f05a51e40bc6149946060737322ac4
+      internalID: 386192104213105152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132343a622a399048aefbcef45c9910c
+      internalID: 857218358748658507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64526285337811c499d8f08fb0ef922c
+      internalID: 2947890547228243912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ac2d105c41b546b0c06e80d2a63f3
+      internalID: 7362019442354251891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d238890b87358ca4887ad7bc433d7fee
+      internalID: 6799715089156859535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b87a25447957c045a817b27ea631d8f
+      internalID: 6644926649419564285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fda8ef9ae77334895a8910238ae8f9
+      internalID: 1951365149213450154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff7789dd0cc07243b307fac90674832
+      internalID: 5959755958344226402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550069b3a87d7a4983ef8dd3e385320
+      internalID: -6215842648662896418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eac976afafe1446a8fd41d58e6dc80
+      internalID: -3244503034274162726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513a24f67512c7468546a00414c067c
+      internalID: -8029713700907017055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cefb855e6ca25044a709205396ea14d
+      internalID: 3291804236792586062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0e963384419374d84114fb0262c85a
+      internalID: 8736304852045196250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21820658035ec947aedd6acfcf28478
+      internalID: 8462369252509490947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527354756c161c34eb2a3a88d90acad6
+      internalID: -3392122143839799481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efee41f62b4292f46a46e979ad4f3e66
+      internalID: -5118128180244231531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edccfd62bd76e30479d3d041c40963fd
+      internalID: 7171346364547663738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4d255f3a76597409c7fe55d443f1eb
+      internalID: 7549665603022046351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a600ba6dd9742164ea55a1b3ecc091b9
+      internalID: 51564148570687161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed1c655300689438ef952768d2d752
+      internalID: -4864504792775896656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50650204743b8545b68af5d5ca2bd35
+      internalID: -2631992397435636827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d0a1ee5bd97e4c80537ae878f3b06
+      internalID: -3706683951723568196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efb4f228209e04f8f53146f4462f9e
+      internalID: 3253067759491855251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77cfc1f6ebf2c54b80e70876db57a0f
+      internalID: -8142018152379262314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb1bd54e6699f4cb96b7b6e470b9fc
+      internalID: -6961345965921739905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2ab13a10eb5a43a9b82e39edf38ee
+      internalID: -5746102336659282272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca09579cd87074ba0da7a53cb6ca0d
+      internalID: -7052343196938301684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0d024df490124e9902a7c27408f2d
+      internalID: -872508639113113999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963d869d8f629e459b37e6d34fc69a9
+      internalID: 8461816421571877590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c0c6a3bc3a4fb46ad4f425fefa5508
+      internalID: 2714423501493620573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655f100c57fd70842a2aae9b02b22c31
+      internalID: -3220671560308509288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cac525af9e74f4698c2ac06f83b56e
+      internalID: -3892898415535167260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21453616fa10a1b4891948ccd1cfb55c
+      internalID: 4677504018671696036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7940a999602977e44aa50ae606c550da
+      internalID: 8230246792975368165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b8cacfa6effe46a146a9de834e5c4
+      internalID: -2554848798595019344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b949d06f7bbd3b47aeec43435e4ff62
+      internalID: -843381334929851605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24104db5b61df1446ba324f0bfcf8679
+      internalID: -6853568211957571637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9680600f1924d4d820e531b3d16f87
+      internalID: -6125520411494577816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b1882e02191f2459281eb04c0abc4f
+      internalID: -4904839189904664109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a062e967c383844989a5f79abb039ca
+      internalID: -6376504845335608863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54afd089d3dc04641ad735169d5ece98
+      internalID: 823403146225820436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9481724f41ea95e439f7fe6d467a7b33
+      internalID: -5782474128909329552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e124c3c91fc08c14e904ae6b0bf14f2f
+      internalID: 6218634286303703184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_90
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c9b2670275bf54a9d29ae6bb386e13
+      internalID: -1187605403355808005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a815f291e06cc24b895d73382045620
+      internalID: -2031419659845558654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b076857cd5281d4f9c1eb3c99a25a26
+      internalID: -6073756078033598882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507a142fbafc60458a65af1e2c33892
+      internalID: 7587544994519346698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ec55f43265ca843a15621cbab19da8
+      internalID: 8446132758831714925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_95
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b45df6d6a23348b154c91d0a8609e
+      internalID: -1986469061661279890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3af37df5e3f44ab4a9aa023c5706b
+      internalID: 1652960445957658222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5695a22db89cc84b875ac2a27d08f8c
+      internalID: 4881684499694698080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43fa76f9eaa1a4479c3292592062c04
+      internalID: 4821916565944920255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e068d840677e0c4c9f44c2d18f613cc
+      internalID: -1704747676261377237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c958cad6ce526148b57932cb164721a
+      internalID: 3544047648118493959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e63aab35be1cfe44b7c22d24db55ab1
+      internalID: -3423583114696015327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88469156626b3f24bb3696bbccabff05
+      internalID: 4682394828950694286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dceb67d89e348e4a940cf4f72337994
+      internalID: -1419654973172125116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73001151b207a04d85ee554b4dd1bcc
+      internalID: 8819858277298907612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc69c78691f23d4d8cabaa8ba758ddc
+      internalID: -8831303527875530487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36c5e1bc4ab68048b9d6761ceb673a8
+      internalID: -5145173738627864811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_107
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbcc55c2309a44e80a116b39c53140
+      internalID: -8468193864679821897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99ade87d582d541af8124160576187
+      internalID: -1546975812845869074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcf5bb7259ddad4a84416b77d20c8cd
+      internalID: -4657657151256316340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ebb99c5fcc274ead85d7c9cb76a25
+      internalID: 9130468397626466114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_111
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20bdf5734f9b42418aa2ae50c4fcb00
+      internalID: -7652526383240378446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dcaa3aa6162d049998e2dbd332f3df
+      internalID: 8808937997674264607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7546ffdc58a74f805894282bc4579
+      internalID: 1527452343881449621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8d7060eea95d45ab291881a4273ab
+      internalID: 2546915023927291500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639a9084a250f348a25aa77e8cabd07
+      internalID: -4855851421175755941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370677cafe6f5f447bb3681c817ac1d1
+      internalID: -3411737553794927095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itch release raw tileset B&W_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983cd285b09f5234285bbd7d48cf8137
+      internalID: -5384685569180002175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Itch release raw tileset B&W_40: 4037210692072489002
+      Itch release raw tileset B&W_29: 3611365969879075880
+      Itch release raw tileset B&W_98: 4821916565944920255
+      Itch release raw tileset B&W_0: -2095785274880205542
+      Itch release raw tileset B&W_71: -6961345965921739905
+      Itch release raw tileset B&W_6: 7180980791204543856
+      Itch release raw tileset B&W_8: 3407451490141193450
+      Itch release raw tileset B&W_84: -6125520411494577816
+      Itch release raw tileset B&W_69: 3253067759491855251
+      Itch release raw tileset B&W_88: -5782474128909329552
+      Itch release raw tileset B&W_35: -512191995775319798
+      Itch release raw tileset B&W_70: -8142018152379262314
+      Itch release raw tileset B&W_92: -6073756078033598882
+      Itch release raw tileset B&W_63: 7171346364547663738
+      Itch release raw tileset B&W_52: 6644926649419564285
+      Itch release raw tileset B&W_51: 6799715089156859535
+      Itch release raw tileset B&W_95: -1986469061661279890
+      Itch release raw tileset B&W_116: -3411737553794927095
+      Itch release raw tileset B&W_24: -988567840662089513
+      Itch release raw tileset B&W_78: -3892898415535167260
+      Itch release raw tileset B&W_49: 2947890547228243912
+      Itch release raw tileset B&W_37: -4738965658761885063
+      Itch release raw tileset B&W_67: -2631992397435636827
+      Itch release raw tileset B&W_47: 386192104213105152
+      Itch release raw tileset B&W_25: -8389869061602540296
+      Itch release raw tileset B&W_20: -4109691105084199332
+      Itch release raw tileset B&W_17: -6001720473054184908
+      Itch release raw tileset B&W_97: 4881684499694698080
+      Itch release raw tileset B&W_75: 8461816421571877590
+      Itch release raw tileset B&W_48: 857218358748658507
+      Itch release raw tileset B&W_100: 3544047648118493959
+      Itch release raw tileset B&W_76: 2714423501493620573
+      Itch release raw tileset B&W_104: 8819858277298907612
+      Itch release raw tileset B&W_1: -1553811588191516270
+      Itch release raw tileset B&W_34: -6365402921809223135
+      Itch release raw tileset B&W_111: -7652526383240378446
+      Itch release raw tileset B&W_80: 8230246792975368165
+      Itch release raw tileset B&W_61: -3392122143839799481
+      Itch release raw tileset B&W_72: -5746102336659282272
+      Itch release raw tileset B&W_50: 7362019442354251891
+      Itch release raw tileset B&W_87: 823403146225820436
+      Itch release raw tileset B&W_33: 2570063900779665543
+      Itch release raw tileset B&W_42: -3478160491029984391
+      Itch release raw tileset B&W_68: -3706683951723568196
+      Itch release raw tileset B&W_36: 7966921670568968290
+      Itch release raw tileset B&W_115: -4855851421175755941
+      Itch release raw tileset B&W_101: -3423583114696015327
+      Itch release raw tileset B&W_89: 6218634286303703184
+      Itch release raw tileset B&W_117: -5384685569180002175
+      Itch release raw tileset B&W_9: -8308614682757027371
+      Itch release raw tileset B&W_27: 7075320933109325907
+      Itch release raw tileset B&W_32: 7709142251474383657
+      Itch release raw tileset B&W_44: 5007948569129374394
+      Itch release raw tileset B&W_74: -872508639113113999
+      Itch release raw tileset B&W_10: 441324403217153906
+      Itch release raw tileset B&W_21: 6039517088291974869
+      Itch release raw tileset B&W_94: 8446132758831714925
+      Itch release raw tileset B&W_79: 4677504018671696036
+      Itch release raw tileset B&W_91: -2031419659845558654
+      Itch release raw tileset B&W_22: 3543663829176116642
+      Itch release raw tileset B&W_96: 1652960445957658222
+      Itch release raw tileset B&W_86: -6376504845335608863
+      Itch release raw tileset B&W_106: -5145173738627864811
+      Itch release raw tileset B&W_105: -8831303527875530487
+      Itch release raw tileset B&W_62: -5118128180244231531
+      Itch release raw tileset B&W_38: 8129388675486895543
+      Itch release raw tileset B&W_3: -3039425276992967074
+      Itch release raw tileset B&W_109: -4657657151256316340
+      Itch release raw tileset B&W_90: -1187605403355808005
+      Itch release raw tileset B&W_18: -1499168997526540837
+      Itch release raw tileset B&W_93: 7587544994519346698
+      Itch release raw tileset B&W_14: -7373801415720680342
+      Itch release raw tileset B&W_11: -1027593752245921960
+      Itch release raw tileset B&W_30: 8812290590852421793
+      Itch release raw tileset B&W_58: 3291804236792586062
+      Itch release raw tileset B&W_110: 9130468397626466114
+      Itch release raw tileset B&W_31: -3396263895808695972
+      Itch release raw tileset B&W_23: -1882942897708332875
+      Itch release raw tileset B&W_53: 1951365149213450154
+      Itch release raw tileset B&W_73: -7052343196938301684
+      Itch release raw tileset B&W_103: -1419654973172125116
+      Itch release raw tileset B&W_45: -6273916502642379699
+      Itch release raw tileset B&W_82: -843381334929851605
+      Itch release raw tileset B&W_60: 8462369252509490947
+      Itch release raw tileset B&W_5: 6685145004654112104
+      Itch release raw tileset B&W_2: -6536060570096236820
+      Itch release raw tileset B&W_13: -9071484549148727927
+      Itch release raw tileset B&W_113: 1527452343881449621
+      Itch release raw tileset B&W_102: 4682394828950694286
+      Itch release raw tileset B&W_57: -8029713700907017055
+      Itch release raw tileset B&W_4: 6884232161876363933
+      Itch release raw tileset B&W_7: -1445352505902582395
+      Itch release raw tileset B&W_56: -3244503034274162726
+      Itch release raw tileset B&W_19: 2435518814397246786
+      Itch release raw tileset B&W_41: 5832177586284665019
+      Itch release raw tileset B&W_59: 8736304852045196250
+      Itch release raw tileset B&W_81: -2554848798595019344
+      Itch release raw tileset B&W_83: -6853568211957571637
+      Itch release raw tileset B&W_77: -3220671560308509288
+      Itch release raw tileset B&W_107: -8468193864679821897
+      Itch release raw tileset B&W_54: 5959755958344226402
+      Itch release raw tileset B&W_12: -4301062010789935950
+      Itch release raw tileset B&W_99: -1704747676261377237
+      Itch release raw tileset B&W_108: -1546975812845869074
+      Itch release raw tileset B&W_114: 2546915023927291500
+      Itch release raw tileset B&W_85: -4904839189904664109
+      Itch release raw tileset B&W_15: -7977328203373702577
+      Itch release raw tileset B&W_26: -7449346701099838508
+      Itch release raw tileset B&W_64: 7549665603022046351
+      Itch release raw tileset B&W_43: -4691216395985998080
+      Itch release raw tileset B&W_55: -6215842648662896418
+      Itch release raw tileset B&W_28: -3470795078133438360
+      Itch release raw tileset B&W_66: -4864504792775896656
+      Itch release raw tileset B&W_65: 51564148570687161
+      Itch release raw tileset B&W_112: 8808937997674264607
+      Itch release raw tileset B&W_39: -8283456396900605314
+      Itch release raw tileset B&W_16: 1472611244990619068
+      Itch release raw tileset B&W_46: 5062933078594974108
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

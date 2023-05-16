@@ -1,0 +1,1685 @@
+fileFormatVersion: 2
+guid: e8c2284846b929d4ba76459583d34121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7313542854960313909
+    second: TileMapLevel1Suelov2_0
+  - first:
+      213: 5179952899164777571
+    second: TileMapLevel1Suelov2_1
+  - first:
+      213: -3134888501307010237
+    second: TileMapLevel1Suelov2_2
+  - first:
+      213: 4168547438841891610
+    second: TileMapLevel1Suelov2_3
+  - first:
+      213: -6820874128911293075
+    second: TileMapLevel1Suelov2_4
+  - first:
+      213: -3746673213536135450
+    second: TileMapLevel1Suelov2_5
+  - first:
+      213: 3781032401254828696
+    second: TileMapLevel1Suelov2_6
+  - first:
+      213: -8391622928951646311
+    second: TileMapLevel1Suelov2_7
+  - first:
+      213: 3131965738161806168
+    second: TileMapLevel1Suelov2_8
+  - first:
+      213: 7039582054313768253
+    second: TileMapLevel1Suelov2_9
+  - first:
+      213: 8399734087955239958
+    second: TileMapLevel1Suelov2_10
+  - first:
+      213: -934803186327065889
+    second: TileMapLevel1Suelov2_11
+  - first:
+      213: -7902334490237155172
+    second: TileMapLevel1Suelov2_12
+  - first:
+      213: 1323934593797427032
+    second: TileMapLevel1Suelov2_13
+  - first:
+      213: -878834983498933558
+    second: TileMapLevel1Suelov2_14
+  - first:
+      213: 2179676246288219714
+    second: TileMapLevel1Suelov2_15
+  - first:
+      213: -4556724108178963798
+    second: TileMapLevel1Suelov2_16
+  - first:
+      213: -7945173429412913520
+    second: TileMapLevel1Suelov2_17
+  - first:
+      213: -2902530695168039110
+    second: TileMapLevel1Suelov2_18
+  - first:
+      213: 8538769149854990912
+    second: TileMapLevel1Suelov2_19
+  - first:
+      213: 2417973128929345412
+    second: TileMapLevel1Suelov2_20
+  - first:
+      213: 4456572967748831089
+    second: TileMapLevel1Suelov2_21
+  - first:
+      213: -504517832267639249
+    second: TileMapLevel1Suelov2_22
+  - first:
+      213: 2973763753842446243
+    second: TileMapLevel1Suelov2_23
+  - first:
+      213: 7864179101742131928
+    second: TileMapLevel1Suelov2_24
+  - first:
+      213: 3151239597625850034
+    second: TileMapLevel1Suelov2_25
+  - first:
+      213: 6166543675840573806
+    second: TileMapLevel1Suelov2_26
+  - first:
+      213: -4686568195814127702
+    second: TileMapLevel1Suelov2_27
+  - first:
+      213: 9175573033658381138
+    second: TileMapLevel1Suelov2_28
+  - first:
+      213: -8138628813797153258
+    second: TileMapLevel1Suelov2_29
+  - first:
+      213: -3287928421488734653
+    second: TileMapLevel1Suelov2_30
+  - first:
+      213: 2154554910999713663
+    second: TileMapLevel1Suelov2_31
+  - first:
+      213: -352454146368165446
+    second: TileMapLevel1Suelov2_32
+  - first:
+      213: 410794993523576032
+    second: TileMapLevel1Suelov2_33
+  - first:
+      213: -5290388595132017877
+    second: TileMapLevel1Suelov2_34
+  - first:
+      213: -371711872045228973
+    second: TileMapLevel1Suelov2_35
+  - first:
+      213: 999761303613731171
+    second: TileMapLevel1Suelov2_36
+  - first:
+      213: 5973714867439838135
+    second: TileMapLevel1Suelov2_37
+  - first:
+      213: -2538584350980126949
+    second: TileMapLevel1Suelov2_38
+  - first:
+      213: 893369560727940780
+    second: TileMapLevel1Suelov2_39
+  - first:
+      213: 5256183791909019936
+    second: TileMapLevel1Suelov2_40
+  - first:
+      213: -2494747647578783515
+    second: TileMapLevel1Suelov2_41
+  - first:
+      213: -5685863365456209913
+    second: TileMapLevel1Suelov2_42
+  - first:
+      213: -75396346615184193
+    second: TileMapLevel1Suelov2_43
+  - first:
+      213: 8130560859536218950
+    second: TileMapLevel1Suelov2_44
+  - first:
+      213: 2273751064613747075
+    second: TileMapLevel1Suelov2_45
+  - first:
+      213: 5249430072059281401
+    second: TileMapLevel1Suelov2_46
+  - first:
+      213: -455860773461175374
+    second: TileMapLevel1Suelov2_47
+  - first:
+      213: -1559879838221497545
+    second: TileMapLevel1Suelov2_48
+  - first:
+      213: -215082735924709794
+    second: TileMapLevel1Suelov2_49
+  - first:
+      213: 8078885969132371267
+    second: TileMapLevel1Suelov2_50
+  - first:
+      213: -6429018588622334312
+    second: TileMapLevel1Suelov2_51
+  - first:
+      213: -4869640926441371669
+    second: TileMapLevel1Suelov2_52
+  - first:
+      213: 1967682086008544895
+    second: TileMapLevel1Suelov2_53
+  - first:
+      213: 5390484126957384943
+    second: TileMapLevel1Suelov2_54
+  - first:
+      213: 9107576695241386043
+    second: TileMapLevel1Suelov2_55
+  - first:
+      213: 4461493551413103667
+    second: TileMapLevel1Suelov2_56
+  - first:
+      213: -1399753562555593586
+    second: TileMapLevel1Suelov2_57
+  - first:
+      213: 112851528071171479
+    second: TileMapLevel1Suelov2_58
+  - first:
+      213: 2010403932540974033
+    second: TileMapLevel1Suelov2_59
+  - first:
+      213: -9107240714998040047
+    second: TileMapLevel1Suelov2_60
+  - first:
+      213: 213672687476304535
+    second: TileMapLevel1Suelov2_61
+  - first:
+      213: 4868968226261939140
+    second: TileMapLevel1Suelov2_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57800b0fce09aa8419539cd9ac360654
+      internalID: -7313542854960313909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222e77aaf5060b4a8ba8929f23cec16
+      internalID: 5179952899164777571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb334aa5d3d65a4b8c06b5f0fb3a79d
+      internalID: -3134888501307010237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f6585b3cb89f4a96e6e2d2f1de7cd
+      internalID: 4168547438841891610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1261179277504b46a97ccadd8d62bb6
+      internalID: -6820874128911293075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8befba39c40e6924c948283d411ff90c
+      internalID: -3746673213536135450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e684ae9cc9e47e439f08e5a9aa2ca79
+      internalID: 3781032401254828696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b24f982fc7fd234aa5ea98ad31d8373
+      internalID: -8391622928951646311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5123462036cfb41b12f72c3710814a
+      internalID: 3131965738161806168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd4c20737b58d45afbe8eacbb49bb6
+      internalID: 7039582054313768253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3459c2ff797a34ab9b324ab6c83bd6
+      internalID: 8399734087955239958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9583241dbff2e1a45b76359331ecbb68
+      internalID: -934803186327065889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415784329734fd4498a7cebf25ac6634
+      internalID: -7902334490237155172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc072d6a92adb4cbf488130ffaf72e
+      internalID: 1323934593797427032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c4b3e0dd1d7a41aa68d3de7af53a7
+      internalID: -878834983498933558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a8ca947d4aaae4aa82fa9d62b033b7
+      internalID: 2179676246288219714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29772d7c87dd8204aa8705a21836312c
+      internalID: -4556724108178963798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ef7034d4523e4ca5a5aad89596b3a
+      internalID: -7945173429412913520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d9ceb143cde444c9f65ef7850ef4d4
+      internalID: -2902530695168039110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad6c7da85084746865979059b1ec08
+      internalID: 8538769149854990912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0875ccb2ec30533448b01aa579ef80cf
+      internalID: 2417973128929345412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fab8c5989a78f40a30c1e43dfe8bb3
+      internalID: 4456572967748831089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a61d87dd87774aacc46931e2c3023
+      internalID: -504517832267639249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7263a7cb89530e24ca7a95cf2fc01e18
+      internalID: 2973763753842446243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81c24f213a37a44b7dd7013271b58e
+      internalID: 7864179101742131928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f09548f88585684ca5849d1d2c37289
+      internalID: 3151239597625850034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7123966db510846979bc593b30b1dc
+      internalID: 6166543675840573806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b75cef592abc784fa2a9a1488614ee3
+      internalID: -4686568195814127702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199866254311243458ca418e036b44fd
+      internalID: 9175573033658381138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450669f68a7466d4da1e4adc2d5c472e
+      internalID: -8138628813797153258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4846767026f6416429ecb14a4f6edf2b
+      internalID: -3287928421488734653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cfad1367db6224e9e3421e3bfc970e
+      internalID: 2154554910999713663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf849d1cae06b3a4cb1194ce4bf63329
+      internalID: -352454146368165446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06412435b11801b4c8a25449093f05e8
+      internalID: 410794993523576032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc43e4514f5c554db6c187389dac501
+      internalID: -5290388595132017877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c842e18413bd4e931435c7fbce38c
+      internalID: -371711872045228973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e9a5269797514bbe0a5459bcb3e94
+      internalID: 999761303613731171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_37
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7724665d83d772441a0cf21b96f8094e
+      internalID: 5973714867439838135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177af9bd1b44e946a45f062f712c7d6
+      internalID: -2538584350980126949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd16217dfc6e9a4f8c65a403d83cea6
+      internalID: 893369560727940780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3538f1d0ffca348998b02ea4555ae5
+      internalID: 5256183791909019936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6637b5e0f7d57f844805c60c23202b11
+      internalID: -2494747647578783515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf40cbbc282dd148a4f6e459a977c5d
+      internalID: -5685863365456209913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59afa4b83a1e4ac48ade9be3409d1924
+      internalID: -75396346615184193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac988b596dee1c489eeb51869f53860
+      internalID: 8130560859536218950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10bf2456831eb43b3fe323e5fdaef2
+      internalID: 2273751064613747075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6e4a6efe53cb2479a4d7a22082ff4c
+      internalID: 5249430072059281401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4d34bc15273340a044872f81b0aac
+      internalID: -455860773461175374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f889a2393faf4bad3fd5b1da3bee5
+      internalID: -1559879838221497545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73b05863e7d6764ca3901f9135ab4c2
+      internalID: -215082735924709794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81f28001ef1774ea1dca2f8552b90c
+      internalID: 8078885969132371267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d809cb275b0442ae5f3cf336cf541
+      internalID: -6429018588622334312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acbd82fd0fec964f9a9d9d7701acb18
+      internalID: -4869640926441371669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c010971d946644e488b53b13130ff647
+      internalID: 1967682086008544895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a320e8bbee7a44a6dd303c78ea775
+      internalID: 5390484126957384943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b962aec5a0de653468901e7ae8a0fc1d
+      internalID: 9107576695241386043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ab11a8c75906d45b0a0466cad385ed
+      internalID: 4461493551413103667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542678f9e1fb6344f8420a6226d198da
+      internalID: -1399753562555593586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9ea151d4801d84a85bd1c855bd4ca5
+      internalID: 112851528071171479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9292cb5299bed46a850290c7932731
+      internalID: 2010403932540974033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943687b232ec0f04fae2e9db9196da22
+      internalID: -9107240714998040047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d92d022c6deab478cbe82b64394a25
+      internalID: 213672687476304535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Suelov2_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2be6bd5942846458e5d2d2d8bea53d
+      internalID: 4868968226261939140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileMapLevel1Suelov2_4: -6820874128911293075
+      TileMapLevel1Suelov2_10: 8399734087955239958
+      TileMapLevel1Suelov2_11: -934803186327065889
+      TileMapLevel1Suelov2_26: 6166543675840573806
+      TileMapLevel1Suelov2_3: 4168547438841891610
+      TileMapLevel1Suelov2_34: -5290388595132017877
+      TileMapLevel1Suelov2_29: -8138628813797153258
+      TileMapLevel1Suelov2_33: 410794993523576032
+      TileMapLevel1Suelov2_45: 2273751064613747075
+      TileMapLevel1Suelov2_61: 213672687476304535
+      TileMapLevel1Suelov2_14: -878834983498933558
+      TileMapLevel1Suelov2_52: -4869640926441371669
+      TileMapLevel1Suelov2_16: -4556724108178963798
+      TileMapLevel1Suelov2_17: -7945173429412913520
+      TileMapLevel1Suelov2_48: -1559879838221497545
+      TileMapLevel1Suelov2_8: 3131965738161806168
+      TileMapLevel1Suelov2_0: -7313542854960313909
+      TileMapLevel1Suelov2_35: -371711872045228973
+      TileMapLevel1Suelov2_49: -215082735924709794
+      TileMapLevel1Suelov2_13: 1323934593797427032
+      TileMapLevel1Suelov2_38: -2538584350980126949
+      TileMapLevel1Suelov2_57: -1399753562555593586
+      TileMapLevel1Suelov2_25: 3151239597625850034
+      TileMapLevel1Suelov2_58: 112851528071171479
+      TileMapLevel1Suelov2_5: -3746673213536135450
+      TileMapLevel1Suelov2_43: -75396346615184193
+      TileMapLevel1Suelov2_7: -8391622928951646311
+      TileMapLevel1Suelov2_47: -455860773461175374
+      TileMapLevel1Suelov2_31: 2154554910999713663
+      TileMapLevel1Suelov2_44: 8130560859536218950
+      TileMapLevel1Suelov2_53: 1967682086008544895
+      TileMapLevel1Suelov2_28: 9175573033658381138
+      TileMapLevel1Suelov2_46: 5249430072059281401
+      TileMapLevel1Suelov2_15: 2179676246288219714
+      TileMapLevel1Suelov2_12: -7902334490237155172
+      TileMapLevel1Suelov2_37: 5973714867439838135
+      TileMapLevel1Suelov2_50: 8078885969132371267
+      TileMapLevel1Suelov2_18: -2902530695168039110
+      TileMapLevel1Suelov2_54: 5390484126957384943
+      TileMapLevel1Suelov2_24: 7864179101742131928
+      TileMapLevel1Suelov2_56: 4461493551413103667
+      TileMapLevel1Suelov2_55: 9107576695241386043
+      TileMapLevel1Suelov2_36: 999761303613731171
+      TileMapLevel1Suelov2_62: 4868968226261939140
+      TileMapLevel1Suelov2_32: -352454146368165446
+      TileMapLevel1Suelov2_9: 7039582054313768253
+      TileMapLevel1Suelov2_42: -5685863365456209913
+      TileMapLevel1Suelov2_59: 2010403932540974033
+      TileMapLevel1Suelov2_6: 3781032401254828696
+      TileMapLevel1Suelov2_22: -504517832267639249
+      TileMapLevel1Suelov2_27: -4686568195814127702
+      TileMapLevel1Suelov2_1: 5179952899164777571
+      TileMapLevel1Suelov2_51: -6429018588622334312
+      TileMapLevel1Suelov2_60: -9107240714998040047
+      TileMapLevel1Suelov2_2: -3134888501307010237
+      TileMapLevel1Suelov2_30: -3287928421488734653
+      TileMapLevel1Suelov2_41: -2494747647578783515
+      TileMapLevel1Suelov2_19: 8538769149854990912
+      TileMapLevel1Suelov2_40: 5256183791909019936
+      TileMapLevel1Suelov2_21: 4456572967748831089
+      TileMapLevel1Suelov2_39: 893369560727940780
+      TileMapLevel1Suelov2_23: 2973763753842446243
+      TileMapLevel1Suelov2_20: 2417973128929345412
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1060 @@
+fileFormatVersion: 2
+guid: 68507d26f0a67634b9a1cb10e2d153cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2426788019327078130
+    second: TileMapLevel1Paredes1_0
+  - first:
+      213: 8381584563293129591
+    second: TileMapLevel1Paredes1_1
+  - first:
+      213: -3651447409590816421
+    second: TileMapLevel1Paredes1_2
+  - first:
+      213: 1115603564181554839
+    second: TileMapLevel1Paredes1_3
+  - first:
+      213: -2076438795176561062
+    second: TileMapLevel1Paredes1_4
+  - first:
+      213: -3689678675147744398
+    second: TileMapLevel1Paredes1_5
+  - first:
+      213: 1768359847078658076
+    second: TileMapLevel1Paredes1_6
+  - first:
+      213: 8176683894706285395
+    second: TileMapLevel1Paredes1_7
+  - first:
+      213: 6562144458358247868
+    second: TileMapLevel1Paredes1_8
+  - first:
+      213: -2424530569062085884
+    second: TileMapLevel1Paredes1_9
+  - first:
+      213: 3396551138093159424
+    second: TileMapLevel1Paredes1_10
+  - first:
+      213: -7391743074900389199
+    second: TileMapLevel1Paredes1_11
+  - first:
+      213: 3007650472244868393
+    second: TileMapLevel1Paredes1_12
+  - first:
+      213: -1369053891354032248
+    second: TileMapLevel1Paredes1_13
+  - first:
+      213: 7751198077785873933
+    second: TileMapLevel1Paredes1_14
+  - first:
+      213: 6647999786238484161
+    second: TileMapLevel1Paredes1_15
+  - first:
+      213: -5464955661387596713
+    second: TileMapLevel1Paredes1_16
+  - first:
+      213: 1523938813433511762
+    second: TileMapLevel1Paredes1_17
+  - first:
+      213: -3632657160187659546
+    second: TileMapLevel1Paredes1_18
+  - first:
+      213: -6827641808655590967
+    second: TileMapLevel1Paredes1_19
+  - first:
+      213: -1157613434784935384
+    second: TileMapLevel1Paredes1_20
+  - first:
+      213: -169466031754040988
+    second: TileMapLevel1Paredes1_21
+  - first:
+      213: -1540462725728952911
+    second: TileMapLevel1Paredes1_22
+  - first:
+      213: 1125304043692926786
+    second: TileMapLevel1Paredes1_23
+  - first:
+      213: 5666506104921654303
+    second: TileMapLevel1Paredes1_24
+  - first:
+      213: -6021199037847216987
+    second: TileMapLevel1Paredes1_25
+  - first:
+      213: 8408138131295393666
+    second: TileMapLevel1Paredes1_26
+  - first:
+      213: -7194522020913943217
+    second: TileMapLevel1Paredes1_27
+  - first:
+      213: -6280780325217080290
+    second: TileMapLevel1Paredes1_28
+  - first:
+      213: 5832344588338680145
+    second: TileMapLevel1Paredes1_29
+  - first:
+      213: -3252058503636292975
+    second: TileMapLevel1Paredes1_30
+  - first:
+      213: -4360414098121771051
+    second: TileMapLevel1Paredes1_31
+  - first:
+      213: 1591107495396154575
+    second: TileMapLevel1Paredes1_32
+  - first:
+      213: -5335354334104890142
+    second: TileMapLevel1Paredes1_33
+  - first:
+      213: -164239925950193120
+    second: TileMapLevel1Paredes1_34
+  - first:
+      213: -9119456496383823955
+    second: TileMapLevel1Paredes1_35
+  - first:
+      213: -4462466864454700276
+    second: TileMapLevel1Paredes1_36
+  - first:
+      213: 2932417009213359256
+    second: TileMapLevel1Paredes1_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b505e42686a00784ab25be6e78471a68
+      internalID: 2426788019327078130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f490c247986f12438f0054193746d98
+      internalID: 8381584563293129591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a395d42eb4a9db4db757708011dffdd
+      internalID: -3651447409590816421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b6ba605e906841a033cdfae503741
+      internalID: 1115603564181554839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a892cc20b5be8ba4482c790482f4eba6
+      internalID: -2076438795176561062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e06b19fda02a4dbf5b8ecad2de9da
+      internalID: -3689678675147744398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d21177a5fb3940bc4ea27f6843381
+      internalID: 1768359847078658076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fe4ae3911187b47ae4972f0f77f353
+      internalID: 8176683894706285395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83ee62b1e2c3b4e82bb44d141231da
+      internalID: 6562144458358247868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f8318c7bceb5b44bc29a61ba201e33
+      internalID: -2424530569062085884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec91353102a064bb59f96537d33286
+      internalID: 3396551138093159424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99179c71d36023f4d80eee36ef292672
+      internalID: -7391743074900389199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed487f0ac834440b5e7f2fa34f21dc
+      internalID: 3007650472244868393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ced728e061ae47b305a7c118ebd05
+      internalID: -1369053891354032248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ae8e4c53d0564e9d9b4c261d424be
+      internalID: 7751198077785873933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a8853ff373d14ebba9ab5e7628d5a
+      internalID: 6647999786238484161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80196b762f6c6754096f85b6437a31ce
+      internalID: -5464955661387596713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8734ce820f95b4cb24dce33b1a8972
+      internalID: 1523938813433511762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b102cdfe841328419bfc89c10883240
+      internalID: -3632657160187659546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe570e84779d603468318341124072e0
+      internalID: -6827641808655590967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb805e0fe0424c42aab6e123597d2ef
+      internalID: -1157613434784935384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5611cfea29dd40b16e5b99a9ade24
+      internalID: -169466031754040988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27501653d05a73f428d90bb7796f0561
+      internalID: -1540462725728952911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa6ea94f6162642a7c499cf9c87b30
+      internalID: 1125304043692926786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7c4950230c6ea49b65363bc9e5c154
+      internalID: 5666506104921654303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575cc957b084f54fb0bf86765476b39
+      internalID: -6021199037847216987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5629df3da9426364a8939a32f8c0201b
+      internalID: 8408138131295393666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9191ee6b4831c4c948f9aac39b512e
+      internalID: -7194522020913943217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2a9a3a6aaa3da4c804b95d150f6819
+      internalID: -6280780325217080290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35e5ebdd9c797a45a5698209b8740b3
+      internalID: 5832344588338680145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e559e8c85fd447b2e05b357604580
+      internalID: -3252058503636292975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81599827e01b9243a807f13293d7d5d
+      internalID: -4360414098121771051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950bb43603172548b1b253868eae434
+      internalID: 1591107495396154575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3aaa5ecd3bf0540be236afdc9800c0
+      internalID: -5335354334104890142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745af83eb8f7f1245b24304b3dd0146b
+      internalID: -164239925950193120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfa24535e17c1045a4f1c4a89ede22c
+      internalID: -9119456496383823955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781187c409fa379459e47a6e9919fdcd
+      internalID: -4462466864454700276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMapLevel1Paredes1_37
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac4ad4edffc89418eefa3cd6d55300
+      internalID: 2932417009213359256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileMapLevel1Paredes1_24: 5666506104921654303
+      TileMapLevel1Paredes1_8: 6562144458358247868
+      TileMapLevel1Paredes1_32: 1591107495396154575
+      TileMapLevel1Paredes1_5: -3689678675147744398
+      TileMapLevel1Paredes1_3: 1115603564181554839
+      TileMapLevel1Paredes1_9: -2424530569062085884
+      TileMapLevel1Paredes1_20: -1157613434784935384
+      TileMapLevel1Paredes1_1: 8381584563293129591
+      TileMapLevel1Paredes1_26: 8408138131295393666
+      TileMapLevel1Paredes1_23: 1125304043692926786
+      TileMapLevel1Paredes1_14: 7751198077785873933
+      TileMapLevel1Paredes1_37: 2932417009213359256
+      TileMapLevel1Paredes1_12: 3007650472244868393
+      TileMapLevel1Paredes1_6: 1768359847078658076
+      TileMapLevel1Paredes1_16: -5464955661387596713
+      TileMapLevel1Paredes1_29: 5832344588338680145
+      TileMapLevel1Paredes1_33: -5335354334104890142
+      TileMapLevel1Paredes1_19: -6827641808655590967
+      TileMapLevel1Paredes1_35: -9119456496383823955
+      TileMapLevel1Paredes1_7: 8176683894706285395
+      TileMapLevel1Paredes1_28: -6280780325217080290
+      TileMapLevel1Paredes1_2: -3651447409590816421
+      TileMapLevel1Paredes1_18: -3632657160187659546
+      TileMapLevel1Paredes1_22: -1540462725728952911
+      TileMapLevel1Paredes1_15: 6647999786238484161
+      TileMapLevel1Paredes1_31: -4360414098121771051
+      TileMapLevel1Paredes1_4: -2076438795176561062
+      TileMapLevel1Paredes1_17: 1523938813433511762
+      TileMapLevel1Paredes1_25: -6021199037847216987
+      TileMapLevel1Paredes1_30: -3252058503636292975
+      TileMapLevel1Paredes1_36: -4462466864454700276
+      TileMapLevel1Paredes1_11: -7391743074900389199
+      TileMapLevel1Paredes1_0: 2426788019327078130
+      TileMapLevel1Paredes1_10: 3396551138093159424
+      TileMapLevel1Paredes1_21: -169466031754040988
+      TileMapLevel1Paredes1_27: -7194522020913943217
+      TileMapLevel1Paredes1_34: -164239925950193120
+      TileMapLevel1Paredes1_13: -1369053891354032248
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

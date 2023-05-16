@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Menu.unity
+    guid: a746e6482e4a50444900c3ff75aad9b2
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Intro.unity
+    guid: 377b75302690b124785b1a34148f3d42
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Controles.unity
+    guid: e115f628d1760ef448b1c79debc17466
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 1.unity
+    guid: ab84921f28333df4ab2e7560f5702670
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 2.unity
+    guid: 582d30a72d3c4ac4487200e9724276dd
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 3.unity
+    guid: 6f33a9dd157326b45a356c095c476223
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Interludio3.unity
+    guid: 2009e2f4290b03f4da76bd0d41bc2ab8
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel 4.unity
+    guid: 6bb3c1cd7b239a041936b8872a46af30
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Interludio4.unity
+    guid: ff2a7d63304243c4ab29fcc84503ede3
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Boss.unity
+    guid: 85af163d78dc24749a3843752d1f4882
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Creditos.unity
+    guid: 3a482ba4abe0ee4409f8545d1db98f5b
+  m_configObjects: {}
