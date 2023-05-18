@@ -154,13 +154,13 @@ public class Window_Graph : MonoBehaviour
         // Nombre y Leyenda
         List<Material> m = new List<Material>();
         line_renderer.GetMaterials(m);
-        m[0].color = graphConfig.designerGraphCol;
-        obj_image.color = m[0].color;
+        m[0].color = graphConfig.actualGraphCol;
+        track_image.color = m[0].color;
 
         List<Material> m2 = new List<Material>();
         objective_line_renderer.GetMaterials(m2);
-        m2[0].color = graphConfig.actualGraphCol;
-        track_image.color = m2[0].color;
+        m2[0].color = graphConfig.designerGraphCol;
+        obj_image.color = m2[0].color;
         chart_name.text = g.name;
 
     }
