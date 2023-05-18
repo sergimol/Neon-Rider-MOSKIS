@@ -272,7 +272,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Objetive
+  m_text: Objective
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1076,10 +1076,14 @@ MonoBehaviour:
   label_X_container: {fileID: 6347305303358820669}
   label_Y_container: {fileID: 6347305302501114554}
   left_container: {fileID: 6347305303379338090}
-  label_template_X: {fileID: 8789352861180054070, guid: 76ac803caa4d3d14eb8e29ed460a179f, type: 3}
-  label_template_Y: {fileID: 8789352861180054070, guid: bb272ea1ff4672845903dadc8854362a, type: 3}
-  dash_template_X: {fileID: 6333979581059549825, guid: 909b3cf463a3ea54bb352679c0c7f67c, type: 3}
-  dash_template_Y: {fileID: 1928189597557539403, guid: 7d7f678734513cb43a0a47c9076c8f43, type: 3}
+  label_template_X: {fileID: 8789352861180054070, guid: 76ac803caa4d3d14eb8e29ed460a179f,
+    type: 3}
+  label_template_Y: {fileID: 8789352861180054070, guid: bb272ea1ff4672845903dadc8854362a,
+    type: 3}
+  dash_template_X: {fileID: 6333979581059549825, guid: 909b3cf463a3ea54bb352679c0c7f67c,
+    type: 3}
+  dash_template_Y: {fileID: 1928189597557539403, guid: 7d7f678734513cb43a0a47c9076c8f43,
+    type: 3}
   obj_image: {fileID: 4026550473904779769}
   track_image: {fileID: 7139703232767468917}
   chart_name: {fileID: 1226492251476312244}
